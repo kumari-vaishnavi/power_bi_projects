@@ -1,0 +1,1334 @@
+﻿businessAssociateId,device,orderCount,price,day,hour,month,year,clickSource,ppcType,countryName,regionName,userType,userCount,industry
+1421,DESKTOP,2,85,Friday,6,April,2018,Direct,OTHERS,Germany,Baden-Wurttemberg,0,1,cards
+1421,DESKTOP,2,60,Friday,1,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,DESKTOP,8,57,Friday,1,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,DESKTOP,7,63,Friday,0,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,9,67,Friday,2,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,9,68,Friday,0,April,2018,Direct,OTHERS,United States of America,South Dakota,0,1,cards
+1421,DESKTOP,3,51,Friday,0,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,4,54,Friday,2,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,25,159,Friday,5,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,DESKTOP,11,235,Friday,3,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,DESKTOP,18,105,Friday,3,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,7,88,Friday,3,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,DESKTOP,11,162,Friday,4,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,DESKTOP,10,93,Friday,3,April,2018,Direct,OTHERS,United States of America,Wyoming,0,1,cards
+1421,DESKTOP,10,69,Friday,8,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,DESKTOP,4,68,Friday,8,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,DESKTOP,1,54,Friday,11,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,5,114,Friday,13,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,19,141,Friday,14,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,DESKTOP,12,131,Friday,13,April,2018,Direct,OTHERS,United States of America,Florida,0,2,cards
+1421,DESKTOP,16,172,Friday,14,April,2018,Direct,OTHERS,United States of America,Georgia,0,2,cards
+1421,DESKTOP,13,129,Friday,14,April,2018,Direct,OTHERS,United States of America,Michigan,0,2,cards
+1421,DESKTOP,3,55,Friday,14,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,5,51,Friday,14,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,2,57,Friday,12,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,DESKTOP,5,55,Friday,14,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,11,68,Friday,14,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,12,180,Friday,16,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,19,315,Friday,15,April,2018,Direct,OTHERS,United States of America,California,0,4,cards
+1421,DESKTOP,3,60,Friday,15,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,DESKTOP,17,235,Friday,16,April,2018,Direct,OTHERS,United States of America,Florida,0,3,cards
+1421,DESKTOP,5,70,Friday,15,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,DESKTOP,13,178,Friday,16,April,2018,Direct,OTHERS,United States of America,Illinois,0,3,cards
+1421,DESKTOP,6,68,Friday,16,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,DESKTOP,7,51,Friday,16,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,DESKTOP,3,80,Friday,16,April,2018,Direct,OTHERS,United States of America,Kentucky,0,1,cards
+1421,DESKTOP,20,182,Friday,15,April,2018,Direct,OTHERS,United States of America,Minnesota,0,2,cards
+1421,DESKTOP,4,106,Friday,15,April,2018,Direct,OTHERS,United States of America,Missouri,0,1,cards
+1421,DESKTOP,11,53,Friday,17,April,2018,Direct,OTHERS,United States of America,Montana,0,1,cards
+1421,DESKTOP,17,159,Friday,15,April,2018,Direct,OTHERS,United States of America,New Jersey,0,2,cards
+1421,DESKTOP,3,97,Friday,16,April,2018,Direct,OTHERS,United States of America,New Mexico,0,1,cards
+1421,DESKTOP,15,135,Friday,16,April,2018,Direct,OTHERS,United States of America,New York,0,2,cards
+1421,DESKTOP,11,57,Friday,17,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,5,65,Friday,17,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,DESKTOP,6,61,Friday,17,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,DESKTOP,13,110,Friday,17,April,2018,Direct,OTHERS,United States of America,Tennessee,0,2,cards
+1421,DESKTOP,3,52,Friday,15,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,8,54,Friday,17,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,2,74,Friday,15,April,2018,Direct,OTHERS,United States of America,Wyoming,0,1,cards
+1421,DESKTOP,6,70,Friday,20,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,5,121,Friday,18,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,DESKTOP,2,70,Friday,18,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,4,77,Friday,19,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,DESKTOP,2,70,Friday,18,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,16,366,Friday,18,April,2018,Direct,OTHERS,United States of America,Ohio,0,4,cards
+1421,DESKTOP,6,56,Friday,18,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,DESKTOP,4,112,Friday,20,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,2,cards
+1421,DESKTOP,22,288,Friday,19,April,2018,Direct,OTHERS,United States of America,Texas,0,4,cards
+1421,DESKTOP,3,54,Friday,18,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,2,68,Friday,19,April,2018,Direct,OTHERS,United States of America,West Virginia,0,1,cards
+1421,DESKTOP,8,62,Friday,18,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,12,59,Friday,23,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,DESKTOP,41,298,Friday,21,April,2018,Direct,OTHERS,United States of America,California,0,4,cards
+1421,DESKTOP,4,56,Friday,21,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,9,54,Friday,21,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,6,140,Friday,23,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,DESKTOP,2,58,Friday,22,April,2018,Direct,OTHERS,United States of America,Massachusetts,0,1,cards
+1421,DESKTOP,18,277,Friday,23,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,6,70,Friday,22,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,4,54,Friday,21,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,4,65,Friday,21,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,DESKTOP,5,92,Friday,21,April,2018,Direct,OTHERS,United States of America,Illinois,1,1,cards
+1421,DESKTOP,5,99,Friday,7,April,2018,ORGANIC,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,7,65,Friday,14,April,2018,ORGANIC,OTHERS,United States of America,Indiana,0,1,cards
+1421,DESKTOP,13,82,Friday,13,April,2018,ORGANIC,OTHERS,United States of America,Vermont,0,1,cards
+1421,DESKTOP,1,270,Friday,0,April,2018,ORGANIC,Bing,United States of America,Idaho,0,1,cards
+1421,DESKTOP,4,74,Friday,7,April,2018,ORGANIC,Bing,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,8,51,Friday,13,April,2018,ORGANIC,Bing,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,8,60,Friday,12,April,2018,ORGANIC,Bing,United States of America,South Carolina,0,1,cards
+1421,DESKTOP,6,137,Friday,15,April,2018,ORGANIC,Bing,United States of America,Illinois,0,1,cards
+1421,DESKTOP,9,192,Friday,20,April,2018,ORGANIC,Bing,United States of America,California,0,1,cards
+1421,DESKTOP,4,105,Friday,19,April,2018,ORGANIC,Bing,United States of America,Georgia,0,1,cards
+1421,DESKTOP,15,59,Friday,19,April,2018,ORGANIC,Bing,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,2,53,Friday,21,April,2018,ORGANIC,Bing,United States of America,Texas,0,1,cards
+1421,DESKTOP,3,73,Friday,5,April,2018,ORGANIC,Facebook,United States of America,Washington,0,1,cards
+1421,DESKTOP,3,72,Friday,13,April,2018,ORGANIC,Facebook,United States of America,Georgia,0,1,cards
+1421,DESKTOP,11,155,Friday,16,April,2018,ORGANIC,Facebook,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,2,60,Friday,19,April,2018,ORGANIC,Facebook,United States of America,Texas,0,1,cards
+1421,DESKTOP,12,123,Friday,21,April,2018,ORGANIC,Facebook,United States of America,California,0,1,cards
+1421,DESKTOP,8,54,Friday,20,April,2018,ORGANIC,Google,Philippines,National Capital Region,0,1,cards
+1421,DESKTOP,4,53,Friday,2,April,2018,ORGANIC,Google,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,2,92,Friday,4,April,2018,ORGANIC,Google,United States of America,Massachusetts,0,1,cards
+1421,DESKTOP,2,59,Friday,13,April,2018,ORGANIC,Google,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,9,63,Friday,17,April,2018,ORGANIC,Google,United States of America,Florida,0,1,cards
+1421,DESKTOP,3,115,Friday,15,April,2018,ORGANIC,Google,United States of America,New York,0,1,cards
+1421,DESKTOP,5,67,Friday,17,April,2018,ORGANIC,Google,United States of America,Texas,0,1,cards
+1421,DESKTOP,4,116,Friday,15,April,2018,ORGANIC,Google,United States of America,Virginia,0,1,cards
+1421,DESKTOP,10,64,Friday,18,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,cards
+1421,DESKTOP,5,186,Friday,19,April,2018,ORGANIC,Google,United States of America,New York,0,1,cards
+1421,DESKTOP,5,57,Friday,22,April,2018,ORGANIC,Google,United States of America,Alaska,0,1,cards
+1421,DESKTOP,4,69,Friday,21,April,2018,ORGANIC,Google,United States of America,Kansas,0,1,cards
+1421,DESKTOP,2,146,Friday,22,April,2018,ORGANIC,Google,United States of America,Maryland,0,1,cards
+1421,DESKTOP,8,54,Friday,22,April,2018,ORGANIC,Google,United States of America,Michigan,0,1,cards
+1421,DESKTOP,10,58,Friday,23,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,2,59,Friday,17,April,2018,ORGANIC,Instagram,United States of America,Indiana,0,1,cards
+1421,DESKTOP,3,82,Friday,20,April,2018,ORGANIC,Instagram,United States of America,Maryland,0,1,cards
+1421,DESKTOP,10,65,Friday,14,April,2018,ORGANIC,Yahoo,United States of America,Illinois,0,1,cards
+1421,DESKTOP,4,54,Friday,17,April,2018,ORGANIC,Yahoo,United States of America,Maryland,0,1,cards
+1421,DESKTOP,5,57,Monday,0,April,2018,Direct,OTHERS,Australia,New South Wales,0,1,cards
+1421,DESKTOP,4,51,Monday,21,April,2018,Direct,OTHERS,Belgium,Antwerpen,0,1,cards
+1421,DESKTOP,3,68,Monday,14,April,2018,Direct,OTHERS,Canada,British Columbia,0,1,cards
+1421,DESKTOP,4,79,Monday,20,April,2018,Direct,OTHERS,Canada,Alberta,0,1,cards
+1421,DESKTOP,7,123,Monday,22,April,2018,Direct,OTHERS,Canada,Alberta,0,1,cards
+1421,DESKTOP,2,72,Monday,19,April,2018,Direct,OTHERS,Puerto Rico,Ponce,0,1,cards
+1421,DESKTOP,3,105,Monday,11,April,2018,Direct,OTHERS,Switzerland,Zurich,0,1,cards
+1421,DESKTOP,4,69,Monday,2,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,7,174,Monday,2,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,DESKTOP,11,54,Monday,2,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,DESKTOP,2,70,Monday,2,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,2,52,Monday,2,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,5,77,Monday,2,April,2018,Direct,OTHERS,United States of America,Massachusetts,0,1,cards
+1421,DESKTOP,9,61,Monday,1,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,3,82,Monday,1,April,2018,Direct,OTHERS,United States of America,Nebraska,0,1,cards
+1421,DESKTOP,14,151,Monday,2,April,2018,Direct,OTHERS,United States of America,New Jersey,0,2,cards
+1421,DESKTOP,13,76,Monday,2,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,5,53,Monday,2,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,4,55,Monday,0,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,2,53,Monday,2,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,16,147,Monday,2,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,DESKTOP,10,147,Monday,1,April,2018,Direct,OTHERS,United States of America,Texas,0,2,cards
+1421,DESKTOP,2,57,Monday,4,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,DESKTOP,19,96,Monday,5,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,5,51,Monday,4,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,DESKTOP,2,72,Monday,3,April,2018,Direct,OTHERS,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,5,88,Monday,3,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,10,78,Monday,3,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,7,146,Monday,3,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,5,80,Monday,3,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,9,55,Monday,9,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,DESKTOP,9,138,Monday,14,April,2018,Direct,OTHERS,United States of America,Alabama,0,2,cards
+1421,DESKTOP,5,51,Monday,14,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,DESKTOP,6,53,Monday,14,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,DESKTOP,8,63,Monday,13,April,2018,Direct,OTHERS,United States of America,Connecticut,0,1,cards
+1421,DESKTOP,7,119,Monday,14,April,2018,Direct,OTHERS,United States of America,Florida,0,2,cards
+1421,DESKTOP,10,51,Monday,14,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,DESKTOP,5,72,Monday,14,April,2018,Direct,OTHERS,United States of America,Idaho,0,1,cards
+1421,DESKTOP,8,68,Monday,13,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,4,58,Monday,13,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,DESKTOP,6,51,Monday,14,April,2018,Direct,OTHERS,United States of America,Missouri,0,1,cards
+1421,DESKTOP,11,121,Monday,14,April,2018,Direct,OTHERS,United States of America,New York,0,2,cards
+1421,DESKTOP,3,52,Monday,14,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,3,63,Monday,14,April,2018,Direct,OTHERS,United States of America,South Dakota,0,1,cards
+1421,DESKTOP,11,148,Monday,14,April,2018,Direct,OTHERS,United States of America,Texas,0,2,cards
+1421,DESKTOP,7,170,Monday,14,April,2018,Direct,OTHERS,United States of America,Utah,0,1,cards
+1421,DESKTOP,8,107,Monday,14,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,10,134,Monday,15,April,2018,Direct,OTHERS,United States of America,Alabama,0,2,cards
+1421,DESKTOP,6,88,Monday,17,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,DESKTOP,2,85,Monday,17,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,29,626,Monday,17,April,2018,Direct,OTHERS,United States of America,California,0,7,cards
+1421,DESKTOP,15,169,Monday,15,April,2018,Direct,OTHERS,United States of America,Colorado,0,2,cards
+1421,DESKTOP,8,53,Monday,17,April,2018,Direct,OTHERS,United States of America,Connecticut,0,1,cards
+1421,DESKTOP,3,60,Monday,17,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,DESKTOP,10,71,Monday,17,April,2018,Direct,OTHERS,United States of America,Idaho,0,1,cards
+1421,DESKTOP,40,511,Monday,15,April,2018,Direct,OTHERS,United States of America,Illinois,0,5,cards
+1421,DESKTOP,17,148,Monday,15,April,2018,Direct,OTHERS,United States of America,Indiana,0,2,cards
+1421,DESKTOP,12,84,Monday,17,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,DESKTOP,11,147,Monday,17,April,2018,Direct,OTHERS,United States of America,Kansas,0,2,cards
+1421,DESKTOP,12,170,Monday,15,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,DESKTOP,4,67,Monday,17,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,DESKTOP,16,112,Monday,15,April,2018,Direct,OTHERS,United States of America,Michigan,0,2,cards
+1421,DESKTOP,7,204,Monday,16,April,2018,Direct,OTHERS,United States of America,Missouri,0,3,cards
+1421,DESKTOP,11,51,Monday,16,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,6,86,Monday,15,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,33,239,Monday,16,April,2018,Direct,OTHERS,United States of America,North Carolina,0,3,cards
+1421,DESKTOP,19,187,Monday,17,April,2018,Direct,OTHERS,United States of America,Ohio,0,3,cards
+1421,DESKTOP,6,170,Monday,16,April,2018,Direct,OTHERS,United States of America,Oklahoma,0,2,cards
+1421,DESKTOP,17,244,Monday,15,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,3,cards
+1421,DESKTOP,17,128,Monday,16,April,2018,Direct,OTHERS,United States of America,Rhode Island,0,2,cards
+1421,DESKTOP,8,170,Monday,16,April,2018,Direct,OTHERS,United States of America,South Carolina,0,2,cards
+1421,DESKTOP,53,722,Monday,16,April,2018,Direct,OTHERS,United States of America,Texas,0,10,cards
+1421,DESKTOP,27,457,Monday,15,April,2018,Direct,OTHERS,United States of America,Virginia,0,3,cards
+1421,DESKTOP,9,107,Monday,15,April,2018,Direct,OTHERS,United States of America,Washington,0,2,cards
+1421,DESKTOP,6,73,Monday,16,April,2018,Direct,OTHERS,United States of America,West Virginia,0,1,cards
+1421,DESKTOP,7,70,Monday,17,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,8,181,Monday,18,April,2018,Direct,OTHERS,United States of America,Arkansas,0,2,cards
+1421,DESKTOP,30,391,Monday,18,April,2018,Direct,OTHERS,United States of America,California,0,6,cards
+1421,DESKTOP,7,52,Monday,18,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,17,213,Monday,20,April,2018,Direct,OTHERS,United States of America,Georgia,0,3,cards
+1421,DESKTOP,6,117,Monday,18,April,2018,Direct,OTHERS,United States of America,Illinois,0,2,cards
+1421,DESKTOP,5,53,Monday,18,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,DESKTOP,10,70,Monday,18,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,DESKTOP,5,68,Monday,20,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,DESKTOP,12,126,Monday,20,April,2018,Direct,OTHERS,United States of America,Michigan,0,2,cards
+1421,DESKTOP,3,60,Monday,19,April,2018,Direct,OTHERS,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,4,51,Monday,20,April,2018,Direct,OTHERS,United States of America,Missouri,0,1,cards
+1421,DESKTOP,7,59,Monday,19,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,9,67,Monday,20,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,8,155,Monday,20,April,2018,Direct,OTHERS,United States of America,Ohio,0,2,cards
+1421,DESKTOP,19,164,Monday,18,April,2018,Direct,OTHERS,United States of America,Oklahoma,0,2,cards
+1421,DESKTOP,2,75,Monday,20,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,DESKTOP,8,54,Monday,18,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,4,54,Monday,20,April,2018,Direct,OTHERS,United States of America,Rhode Island,0,1,cards
+1421,DESKTOP,10,86,Monday,19,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,DESKTOP,8,119,Monday,20,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,32,257,Monday,18,April,2018,Direct,OTHERS,United States of America,Virginia,0,4,cards
+1421,DESKTOP,2,65,Monday,20,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,18,171,Monday,18,April,2018,Direct,OTHERS,United States of America,West Virginia,0,2,cards
+1421,DESKTOP,10,198,Monday,23,April,2018,Direct,OTHERS,United States of America,Arizona,0,3,cards
+1421,DESKTOP,51,452,Monday,21,April,2018,Direct,OTHERS,United States of America,California,0,7,cards
+1421,DESKTOP,3,62,Monday,22,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,DESKTOP,3,64,Monday,23,April,2018,Direct,OTHERS,United States of America,Connecticut,0,1,cards
+1421,DESKTOP,40,459,Monday,23,April,2018,Direct,OTHERS,United States of America,Florida,0,5,cards
+1421,DESKTOP,4,92,Monday,21,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,17,103,Monday,21,April,2018,Direct,OTHERS,United States of America,Indiana,0,2,cards
+1421,DESKTOP,9,141,Monday,22,April,2018,Direct,OTHERS,United States of America,Kentucky,0,2,cards
+1421,DESKTOP,12,62,Monday,21,April,2018,Direct,OTHERS,United States of America,Massachusetts,0,1,cards
+1421,DESKTOP,42,315,Monday,22,April,2018,Direct,OTHERS,United States of America,Michigan,0,4,cards
+1421,DESKTOP,4,54,Monday,22,April,2018,Direct,OTHERS,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,5,65,Monday,23,April,2018,Direct,OTHERS,United States of America,Nebraska,0,1,cards
+1421,DESKTOP,3,62,Monday,21,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,1,82,Monday,22,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,5,59,Monday,22,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,DESKTOP,10,61,Monday,21,April,2018,Direct,OTHERS,United States of America,Rhode Island,0,1,cards
+1421,DESKTOP,34,281,Monday,22,April,2018,Direct,OTHERS,United States of America,Texas,0,3,cards
+1421,DESKTOP,5,56,Monday,23,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,8,178,Monday,21,April,2018,Direct,OTHERS,United States of America,Washington,0,2,cards
+1421,DESKTOP,14,78,Monday,21,April,2018,Direct,OTHERS,United States of America,West Virginia,0,1,cards
+1421,DESKTOP,7,52,Monday,22,April,2018,Direct,OTHERS,United States of America,Wyoming,0,1,cards
+1421,DESKTOP,6,62,Monday,19,April,2018,Direct,OTHERS,"Venezuela, Bolivarian Republic of",Zulia,0,1,cards
+1421,DESKTOP,10,62,Monday,18,April,2018,ORGANIC,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,10,72,Monday,2,April,2018,ORGANIC,Bing,United States of America,Missouri,0,1,cards
+1421,DESKTOP,10,60,Monday,14,April,2018,ORGANIC,Bing,United States of America,Michigan,0,1,cards
+1421,DESKTOP,8,242,Monday,14,April,2018,ORGANIC,Bing,United States of America,Ohio,0,1,cards
+1421,DESKTOP,9,67,Monday,16,April,2018,ORGANIC,Bing,United States of America,Arizona,0,1,cards
+1421,DESKTOP,15,109,Monday,16,April,2018,ORGANIC,Bing,United States of America,Colorado,0,1,cards
+1421,DESKTOP,3,51,Monday,20,April,2018,ORGANIC,Bing,United States of America,California,0,1,cards
+1421,DESKTOP,10,52,Monday,18,April,2018,ORGANIC,Bing,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,5,53,Monday,22,April,2018,ORGANIC,Bing,United States of America,Texas,0,1,cards
+1421,DESKTOP,2,89,Monday,16,April,2018,ORGANIC,Facebook,United States of America,California,0,1,cards
+1421,DESKTOP,3,51,Monday,15,April,2018,ORGANIC,Facebook,United States of America,Michigan,0,1,cards
+1421,DESKTOP,3,70,Monday,17,April,2018,ORGANIC,Facebook,United States of America,Nevada,0,1,cards
+1421,DESKTOP,5,52,Monday,16,April,2018,ORGANIC,Facebook,United States of America,Ohio,0,1,cards
+1421,DESKTOP,3,80,Monday,17,April,2018,ORGANIC,Facebook,United States of America,Texas,0,1,cards
+1421,DESKTOP,1,70,Monday,18,April,2018,ORGANIC,Facebook,United States of America,Connecticut,0,1,cards
+1421,DESKTOP,1,68,Monday,19,April,2018,ORGANIC,Facebook,United States of America,Indiana,0,1,cards
+1421,DESKTOP,3,64,Monday,19,April,2018,ORGANIC,Facebook,United States of America,Missouri,0,1,cards
+1421,DESKTOP,2,56,Monday,18,April,2018,ORGANIC,Facebook,United States of America,New York,0,1,cards
+1421,DESKTOP,3,57,Monday,18,April,2018,ORGANIC,Facebook,United States of America,Virginia,0,1,cards
+1421,DESKTOP,19,123,Monday,22,April,2018,ORGANIC,Google,Canada,Alberta,0,1,cards
+1421,DESKTOP,3,53,Monday,2,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,1,90,Monday,5,April,2018,ORGANIC,Google,United States of America,Iowa,0,1,cards
+1421,DESKTOP,4,125,Monday,13,April,2018,ORGANIC,Google,United States of America,New York,0,1,cards
+1421,DESKTOP,2,55,Monday,17,April,2018,ORGANIC,Google,United States of America,Alabama,0,1,cards
+1421,DESKTOP,2,51,Monday,16,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,cards
+1421,DESKTOP,8,52,Monday,17,April,2018,ORGANIC,Google,United States of America,Texas,0,1,cards
+1421,DESKTOP,4,53,Monday,18,April,2018,ORGANIC,Google,United States of America,Colorado,0,1,cards
+1421,DESKTOP,9,52,Monday,18,April,2018,ORGANIC,Google,United States of America,Florida,0,1,cards
+1421,DESKTOP,8,123,Monday,20,April,2018,ORGANIC,Google,United States of America,Illinois,0,2,cards
+1421,DESKTOP,3,55,Monday,19,April,2018,ORGANIC,Google,United States of America,Missouri,0,1,cards
+1421,DESKTOP,2,65,Monday,19,April,2018,ORGANIC,Google,United States of America,New Hampshire,0,1,cards
+1421,DESKTOP,5,59,Monday,19,April,2018,ORGANIC,Google,United States of America,New Mexico,0,1,cards
+1421,DESKTOP,6,53,Monday,20,April,2018,ORGANIC,Google,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,9,67,Monday,18,April,2018,ORGANIC,Google,United States of America,Texas,0,1,cards
+1421,DESKTOP,9,53,Monday,18,April,2018,ORGANIC,Google,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,5,54,Monday,21,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,cards
+1421,DESKTOP,11,70,Monday,23,April,2018,ORGANIC,Google,United States of America,Iowa,0,1,cards
+1421,DESKTOP,8,51,Monday,23,April,2018,ORGANIC,Google,United States of America,Maryland,0,1,cards
+1421,DESKTOP,4,72,Monday,14,April,2018,ORGANIC,Yahoo,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,10,53,Monday,23,April,2018,ORGANIC,Yahoo,United States of America,Washington,0,1,cards
+1421,DESKTOP,12,68,Saturday,16,April,2018,Direct,OTHERS,Canada,Alberta,0,1,cards
+1421,DESKTOP,5,533,Saturday,1,April,2018,Direct,OTHERS,Singapore,Singapore,0,1,cards
+1421,DESKTOP,6,58,Saturday,10,April,2018,Direct,OTHERS,Singapore,Singapore,0,1,cards
+1421,DESKTOP,9,149,Saturday,11,April,2018,Direct,OTHERS,United Kingdom,England,0,1,cards
+1421,DESKTOP,11,248,Saturday,1,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,DESKTOP,1,55,Saturday,1,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,9,56,Saturday,0,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,DESKTOP,4,67,Saturday,1,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,DESKTOP,8,56,Saturday,0,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,2,68,Saturday,0,April,2018,Direct,OTHERS,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,13,68,Saturday,0,April,2018,Direct,OTHERS,United States of America,Mississippi,0,1,cards
+1421,DESKTOP,4,101,Saturday,0,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,8,53,Saturday,0,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,1,55,Saturday,1,April,2018,Direct,OTHERS,United States of America,South Dakota,0,1,cards
+1421,DESKTOP,11,121,Saturday,0,April,2018,Direct,OTHERS,United States of America,Tennessee,0,2,cards
+1421,DESKTOP,6,62,Saturday,0,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,8,84,Saturday,0,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,3,76,Saturday,3,April,2018,Direct,OTHERS,United States of America,Alaska,0,1,cards
+1421,DESKTOP,6,69,Saturday,3,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,DESKTOP,7,51,Saturday,3,April,2018,Direct,OTHERS,United States of America,South Dakota,0,1,cards
+1421,DESKTOP,6,56,Saturday,3,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,3,52,Saturday,7,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,DESKTOP,5,71,Saturday,6,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,DESKTOP,8,55,Saturday,7,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,8,51,Saturday,10,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,11,150,Saturday,14,April,2018,Direct,OTHERS,United States of America,Georgia,0,2,cards
+1421,DESKTOP,6,136,Saturday,12,April,2018,Direct,OTHERS,United States of America,Maine,0,1,cards
+1421,DESKTOP,9,56,Saturday,14,April,2018,Direct,OTHERS,United States of America,Missouri,0,1,cards
+1421,DESKTOP,14,94,Saturday,14,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,3,264,Saturday,13,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,DESKTOP,11,64,Saturday,14,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,12,53,Saturday,14,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,14,192,Saturday,16,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,DESKTOP,9,172,Saturday,15,April,2018,Direct,OTHERS,United States of America,Arkansas,0,2,cards
+1421,DESKTOP,8,171,Saturday,15,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,DESKTOP,7,85,Saturday,15,April,2018,Direct,OTHERS,United States of America,Connecticut,0,1,cards
+1421,DESKTOP,7,332,Saturday,17,April,2018,Direct,OTHERS,United States of America,Florida,0,2,cards
+1421,DESKTOP,16,191,Saturday,17,April,2018,Direct,OTHERS,United States of America,Georgia,0,3,cards
+1421,DESKTOP,2,54,Saturday,16,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,12,71,Saturday,15,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,DESKTOP,2,85,Saturday,16,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,DESKTOP,4,55,Saturday,15,April,2018,Direct,OTHERS,United States of America,Massachusetts,0,1,cards
+1421,DESKTOP,7,99,Saturday,16,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,4,56,Saturday,17,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,9,57,Saturday,16,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,5,53,Saturday,15,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,4,67,Saturday,17,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,10,69,Saturday,17,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,10,202,Saturday,15,April,2018,Direct,OTHERS,United States of America,Washington,0,2,cards
+1421,DESKTOP,9,55,Saturday,20,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,5,57,Saturday,18,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,DESKTOP,13,77,Saturday,20,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,8,68,Saturday,19,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,DESKTOP,2,57,Saturday,19,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,DESKTOP,4,121,Saturday,18,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,DESKTOP,5,72,Saturday,19,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,10,171,Saturday,18,April,2018,Direct,OTHERS,United States of America,North Carolina,0,2,cards
+1421,DESKTOP,8,74,Saturday,20,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,4,84,Saturday,19,April,2018,Direct,OTHERS,United States of America,Oklahoma,0,1,cards
+1421,DESKTOP,15,93,Saturday,19,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,DESKTOP,10,52,Saturday,18,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,8,86,Saturday,18,April,2018,Direct,OTHERS,United States of America,Wyoming,0,1,cards
+1421,DESKTOP,14,235,Saturday,21,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,8,52,Saturday,23,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,2,85,Saturday,22,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,DESKTOP,4,61,Saturday,21,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,2,54,Saturday,21,April,2018,Direct,OTHERS,United States of America,Oklahoma,0,1,cards
+1421,DESKTOP,10,65,Saturday,22,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,DESKTOP,2,55,Saturday,23,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,1,66,Saturday,2,April,2018,ORGANIC,Bing,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,4,52,Saturday,5,April,2018,ORGANIC,Bing,United States of America,Illinois,0,1,cards
+1421,DESKTOP,2,132,Saturday,3,April,2018,ORGANIC,Bing,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,6,54,Saturday,16,April,2018,ORGANIC,Bing,United States of America,Florida,0,1,cards
+1421,DESKTOP,7,62,Saturday,17,April,2018,ORGANIC,Bing,United States of America,Illinois,0,1,cards
+1421,DESKTOP,5,75,Saturday,17,April,2018,ORGANIC,Bing,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,12,73,Saturday,17,April,2018,ORGANIC,Bing,United States of America,Ohio,0,1,cards
+1421,DESKTOP,4,52,Saturday,18,April,2018,ORGANIC,Bing,United States of America,Colorado,0,1,cards
+1421,DESKTOP,4,65,Saturday,13,April,2018,ORGANIC,Facebook,United States of America,Florida,0,1,cards
+1421,DESKTOP,4,54,Saturday,17,April,2018,ORGANIC,Facebook,United States of America,Ohio,0,1,cards
+1421,DESKTOP,3,80,Saturday,20,April,2018,ORGANIC,Facebook,United States of America,Oklahoma,0,1,cards
+1421,DESKTOP,4,54,Saturday,16,April,2018,ORGANIC,Google,United States of America,Indiana,0,1,cards
+1421,DESKTOP,3,108,Saturday,16,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,3,60,Saturday,18,April,2018,ORGANIC,Google,United States of America,Kansas,0,1,cards
+1421,DESKTOP,4,78,Saturday,21,April,2018,ORGANIC,Google,United States of America,California,0,1,cards
+1421,DESKTOP,9,54,Saturday,21,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,cards
+1421,DESKTOP,4,51,Saturday,21,April,2018,ORGANIC,Google,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,8,75,Saturday,15,April,2018,ORGANIC,Yahoo,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,10,63,Saturday,15,April,2018,ORGANIC,Yahoo,United States of America,Iowa,0,1,cards
+1421,DESKTOP,2,71,Saturday,23,April,2018,ORGANIC,Yahoo,United States of America,Ohio,0,1,cards
+1421,DESKTOP,5,56,Saturday,20,April,2018,PPC,Yahoo,United States of America,North Dakota,0,1,cards
+1421,DESKTOP,2,80,Sunday,18,April,2018,Direct,OTHERS,Argentina,Ciudad Autonoma de Buenos Aires,0,1,cards
+1421,DESKTOP,6,65,Sunday,16,April,2018,Direct,OTHERS,Canada,Ontario,0,1,cards
+1421,DESKTOP,2,77,Sunday,12,April,2018,Direct,OTHERS,Israel,HaMerkaz,0,1,cards
+1421,DESKTOP,4,53,Sunday,13,April,2018,Direct,OTHERS,United Arab Emirates,Dubayy,0,1,cards
+1421,DESKTOP,7,87,Sunday,0,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,DESKTOP,6,87,Sunday,2,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,DESKTOP,8,55,Sunday,0,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,DESKTOP,1,120,Sunday,0,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,3,55,Sunday,0,April,2018,Direct,OTHERS,United States of America,Nebraska,0,1,cards
+1421,DESKTOP,9,58,Sunday,1,April,2018,Direct,OTHERS,United States of America,New Hampshire,0,1,cards
+1421,DESKTOP,11,68,Sunday,2,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,9,55,Sunday,0,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,4,60,Sunday,0,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,9,122,Sunday,3,April,2018,Direct,OTHERS,United States of America,Nebraska,0,1,cards
+1421,DESKTOP,1,55,Sunday,5,April,2018,Direct,OTHERS,United States of America,Nevada,0,1,cards
+1421,DESKTOP,24,242,Sunday,4,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,2,cards
+1421,DESKTOP,11,290,Sunday,3,April,2018,Direct,OTHERS,United States of America,Texas,0,3,cards
+1421,DESKTOP,3,85,Sunday,6,April,2018,Direct,OTHERS,United States of America,South Dakota,0,1,cards
+1421,DESKTOP,23,340,Sunday,11,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,DESKTOP,5,74,Sunday,11,April,2018,Direct,OTHERS,United States of America,Massachusetts,0,1,cards
+1421,DESKTOP,2,68,Sunday,11,April,2018,Direct,OTHERS,United States of America,Nebraska,0,1,cards
+1421,DESKTOP,9,56,Sunday,13,April,2018,Direct,OTHERS,United States of America,Kentucky,0,1,cards
+1421,DESKTOP,16,134,Sunday,13,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,5,55,Sunday,14,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,6,120,Sunday,16,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,DESKTOP,12,55,Sunday,16,April,2018,Direct,OTHERS,United States of America,New Mexico,0,1,cards
+1421,DESKTOP,1,292,Sunday,17,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,4,52,Sunday,20,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,DESKTOP,9,99,Sunday,19,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,10,73,Sunday,20,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,DESKTOP,6,62,Sunday,19,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,DESKTOP,11,66,Sunday,20,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,3,63,Sunday,19,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,3,107,Sunday,21,April,2018,Direct,OTHERS,United States of America,Connecticut,0,1,cards
+1421,DESKTOP,7,57,Sunday,22,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,14,100,Sunday,21,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,DESKTOP,1,64,Sunday,22,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,14,167,Sunday,23,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,10,56,Sunday,23,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,4,58,Sunday,21,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,DESKTOP,7,114,Sunday,23,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,2,cards
+1421,DESKTOP,12,82,Sunday,23,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,8,80,Sunday,20,April,2018,ORGANIC,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,15,93,Sunday,2,April,2018,ORGANIC,Bing,United States of America,Alabama,0,1,cards
+1421,DESKTOP,3,52,Sunday,13,April,2018,ORGANIC,Bing,United States of America,Georgia,0,1,cards
+1421,DESKTOP,9,58,Sunday,19,April,2018,ORGANIC,Bing,United States of America,Florida,0,1,cards
+1421,DESKTOP,1,69,Sunday,23,April,2018,ORGANIC,Bing,United States of America,California,0,1,cards
+1421,DESKTOP,5,55,Sunday,3,April,2018,ORGANIC,Facebook,United States of America,Texas,0,1,cards
+1421,DESKTOP,17,104,Sunday,2,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,6,51,Sunday,9,April,2018,ORGANIC,Google,United States of America,Florida,0,1,cards
+1421,DESKTOP,3,68,Sunday,14,April,2018,ORGANIC,Google,United States of America,California,0,1,cards
+1421,DESKTOP,8,78,Sunday,17,April,2018,ORGANIC,Google,United States of America,Kansas,0,1,cards
+1421,DESKTOP,9,54,Sunday,20,April,2018,ORGANIC,Google,United States of America,Florida,0,1,cards
+1421,DESKTOP,6,53,Sunday,20,April,2018,ORGANIC,Google,United States of America,Texas,0,1,cards
+1421,DESKTOP,1,60,Sunday,21,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,6,70,Sunday,23,April,2018,ORGANIC,Google,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,2,53,Sunday,17,April,2018,ORGANIC,Yahoo,United States of America,Texas,0,1,cards
+1421,DESKTOP,5,66,Sunday,20,April,2018,ORGANIC,Yahoo,United States of America,California,0,1,cards
+1421,DESKTOP,6,102,Sunday,22,April,2018,ORGANIC,Yahoo,United States of America,California,0,1,cards
+1421,DESKTOP,3,80,Sunday,5,April,2018,PPC,Google,United States of America,Louisiana,0,1,cards
+1421,DESKTOP,7,73,Thursday,1,April,2018,Direct,OTHERS,Australia,New South Wales,0,1,cards
+1421,DESKTOP,7,67,Thursday,0,April,2018,Direct,OTHERS,Canada,Quebec,0,1,cards
+1421,DESKTOP,5,80,Thursday,18,April,2018,Direct,OTHERS,Canada,British Columbia,0,1,cards
+1421,DESKTOP,14,94,Thursday,20,April,2018,Direct,OTHERS,Canada,Ontario,0,1,cards
+1421,DESKTOP,26,167,Thursday,16,April,2018,Direct,OTHERS,Hong Kong,Hong Kong (SAR),0,1,cards
+1421,DESKTOP,3,54,Thursday,3,April,2018,Direct,OTHERS,Malaysia,Johor,0,1,cards
+1421,DESKTOP,9,94,Thursday,15,April,2018,Direct,OTHERS,Malaysia,Wilayah Persekutuan Kuala Lumpur,0,1,cards
+1421,DESKTOP,5,51,Thursday,9,April,2018,Direct,OTHERS,Norway,Oslo,0,1,cards
+1421,DESKTOP,7,70,Thursday,6,April,2018,Direct,OTHERS,Switzerland,Zug,0,1,cards
+1421,DESKTOP,9,55,Thursday,2,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,DESKTOP,6,151,Thursday,1,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,DESKTOP,2,51,Thursday,0,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,19,197,Thursday,1,April,2018,Direct,OTHERS,United States of America,Illinois,0,3,cards
+1421,DESKTOP,12,78,Thursday,2,April,2018,Direct,OTHERS,United States of America,Kentucky,0,1,cards
+1421,DESKTOP,3,51,Thursday,2,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,5,51,Thursday,1,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,14,71,Thursday,0,April,2018,Direct,OTHERS,United States of America,West Virginia,0,1,cards
+1421,DESKTOP,4,115,Thursday,4,April,2018,Direct,OTHERS,United States of America,Colorado,0,2,cards
+1421,DESKTOP,8,53,Thursday,4,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,DESKTOP,13,136,Thursday,5,April,2018,Direct,OTHERS,United States of America,Louisiana,0,2,cards
+1421,DESKTOP,6,55,Thursday,4,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,5,54,Thursday,3,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,11,163,Thursday,4,April,2018,Direct,OTHERS,United States of America,South Dakota,0,1,cards
+1421,DESKTOP,3,105,Thursday,14,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,9,271,Thursday,14,April,2018,Direct,OTHERS,United States of America,Florida,0,2,cards
+1421,DESKTOP,5,165,Thursday,13,April,2018,Direct,OTHERS,United States of America,Illinois,0,2,cards
+1421,DESKTOP,2,59,Thursday,13,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,DESKTOP,5,53,Thursday,13,April,2018,Direct,OTHERS,United States of America,Mississippi,0,1,cards
+1421,DESKTOP,4,65,Thursday,12,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,3,53,Thursday,13,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,11,85,Thursday,13,April,2018,Direct,OTHERS,United States of America,Oklahoma,0,1,cards
+1421,DESKTOP,7,73,Thursday,14,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,DESKTOP,14,136,Thursday,13,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,2,cards
+1421,DESKTOP,6,59,Thursday,14,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,13,213,Thursday,17,April,2018,Direct,OTHERS,United States of America,Arizona,0,2,cards
+1421,DESKTOP,8,70,Thursday,15,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,18,209,Thursday,17,April,2018,Direct,OTHERS,United States of America,California,0,3,cards
+1421,DESKTOP,6,241,Thursday,16,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,DESKTOP,8,195,Thursday,17,April,2018,Direct,OTHERS,United States of America,Florida,0,2,cards
+1421,DESKTOP,7,62,Thursday,15,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,DESKTOP,8,106,Thursday,15,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,DESKTOP,11,108,Thursday,15,April,2018,Direct,OTHERS,United States of America,Michigan,0,2,cards
+1421,DESKTOP,2,51,Thursday,17,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,3,53,Thursday,15,April,2018,Direct,OTHERS,United States of America,New Mexico,0,1,cards
+1421,DESKTOP,28,236,Thursday,17,April,2018,Direct,OTHERS,United States of America,Ohio,0,3,cards
+1421,DESKTOP,6,66,Thursday,15,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,3,55,Thursday,15,April,2018,Direct,OTHERS,United States of America,South Dakota,0,1,cards
+1421,DESKTOP,25,244,Thursday,17,April,2018,Direct,OTHERS,United States of America,Texas,0,4,cards
+1421,DESKTOP,9,51,Thursday,15,April,2018,Direct,OTHERS,United States of America,Utah,0,1,cards
+1421,DESKTOP,1,54,Thursday,17,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,9,51,Thursday,19,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,DESKTOP,11,162,Thursday,19,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,DESKTOP,21,195,Thursday,20,April,2018,Direct,OTHERS,United States of America,Colorado,0,3,cards
+1421,DESKTOP,15,100,Thursday,18,April,2018,Direct,OTHERS,United States of America,Connecticut,0,1,cards
+1421,DESKTOP,3,70,Thursday,20,April,2018,Direct,OTHERS,United States of America,District of Columbia,0,1,cards
+1421,DESKTOP,21,177,Thursday,19,April,2018,Direct,OTHERS,United States of America,Georgia,0,3,cards
+1421,DESKTOP,2,96,Thursday,20,April,2018,Direct,OTHERS,United States of America,Hawaii,0,1,cards
+1421,DESKTOP,4,204,Thursday,18,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,DESKTOP,5,75,Thursday,19,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,DESKTOP,3,288,Thursday,20,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,14,174,Thursday,19,April,2018,Direct,OTHERS,United States of America,Nebraska,0,2,cards
+1421,DESKTOP,13,176,Thursday,19,April,2018,Direct,OTHERS,United States of America,North Carolina,0,2,cards
+1421,DESKTOP,10,270,Thursday,18,April,2018,Direct,OTHERS,United States of America,Ohio,0,2,cards
+1421,DESKTOP,5,54,Thursday,19,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,DESKTOP,23,297,Thursday,20,April,2018,Direct,OTHERS,United States of America,Texas,0,5,cards
+1421,DESKTOP,5,65,Thursday,23,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,DESKTOP,6,51,Thursday,23,April,2018,Direct,OTHERS,United States of America,Montana,0,1,cards
+1421,DESKTOP,16,446,Thursday,21,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,2,70,Thursday,21,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,2,75,Thursday,22,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,2,81,Thursday,21,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,9,52,Thursday,22,April,2018,Direct,OTHERS,United States of America,West Virginia,0,1,cards
+1421,DESKTOP,4,89,Thursday,2,April,2018,Direct,OTHERS,"Venezuela, Bolivarian Republic of",Zulia,0,1,cards
+1421,DESKTOP,9,54,Thursday,16,April,2018,ORGANIC,Bing,United States of America,California,0,1,cards
+1421,DESKTOP,6,51,Thursday,15,April,2018,ORGANIC,Bing,United States of America,Florida,0,1,cards
+1421,DESKTOP,27,130,Thursday,15,April,2018,ORGANIC,Bing,United States of America,Ohio,0,1,cards
+1421,DESKTOP,12,74,Thursday,15,April,2018,ORGANIC,Bing,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,10,63,Thursday,18,April,2018,ORGANIC,Bing,United States of America,Indiana,0,1,cards
+1421,DESKTOP,11,69,Thursday,21,April,2018,ORGANIC,Bing,United States of America,Colorado,0,1,cards
+1421,DESKTOP,8,69,Thursday,22,April,2018,ORGANIC,Bing,United States of America,Missouri,0,1,cards
+1421,DESKTOP,4,102,Thursday,14,April,2018,ORGANIC,Facebook,United States of America,Maryland,0,1,cards
+1421,DESKTOP,5,182,Thursday,14,April,2018,ORGANIC,Google,Canada,Ontario,0,1,cards
+1421,DESKTOP,1,144,Thursday,22,April,2018,ORGANIC,Google,Canada,Alberta,0,1,cards
+1421,DESKTOP,22,157,Thursday,2,April,2018,ORGANIC,Google,United States of America,Arizona,0,1,cards
+1421,DESKTOP,8,52,Thursday,4,April,2018,ORGANIC,Google,United States of America,Maryland,0,1,cards
+1421,DESKTOP,1,55,Thursday,13,April,2018,ORGANIC,Google,United States of America,Maryland,0,1,cards
+1421,DESKTOP,5,74,Thursday,16,April,2018,ORGANIC,Google,United States of America,California,0,1,cards
+1421,DESKTOP,9,54,Thursday,15,April,2018,ORGANIC,Google,United States of America,Florida,0,1,cards
+1421,DESKTOP,8,65,Thursday,15,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,cards
+1421,DESKTOP,21,126,Thursday,16,April,2018,ORGANIC,Google,United States of America,Massachusetts,0,2,cards
+1421,DESKTOP,9,160,Thursday,16,April,2018,ORGANIC,Google,United States of America,Wisconsin,0,2,cards
+1421,DESKTOP,7,77,Thursday,20,April,2018,ORGANIC,Google,United States of America,Arizona,0,1,cards
+1421,DESKTOP,3,91,Thursday,20,April,2018,ORGANIC,Google,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,1,120,Thursday,18,April,2018,ORGANIC,Google,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,8,56,Thursday,21,April,2018,ORGANIC,Google,United States of America,California,0,1,cards
+1421,DESKTOP,8,56,Thursday,2,April,2018,ORGANIC,Yahoo,Canada,Quebec,0,1,cards
+1421,DESKTOP,17,107,Thursday,15,April,2018,ORGANIC,Yahoo,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,11,120,Tuesday,13,April,2018,Direct,OTHERS,Australia,New South Wales,0,1,cards
+1421,DESKTOP,2,71,Tuesday,3,April,2018,Direct,OTHERS,Canada,Saskatchewan,0,1,cards
+1421,DESKTOP,7,136,Tuesday,16,April,2018,Direct,OTHERS,Canada,Manitoba,0,2,cards
+1421,DESKTOP,5,51,Tuesday,19,April,2018,Direct,OTHERS,Canada,British Columbia,0,1,cards
+1421,DESKTOP,15,149,Tuesday,19,April,2018,Direct,OTHERS,Canada,Ontario,0,2,cards
+1421,DESKTOP,4,55,Tuesday,1,April,2018,Direct,OTHERS,China,Fujian,0,1,cards
+1421,DESKTOP,9,135,Tuesday,3,April,2018,Direct,OTHERS,Dominican Republic,Peravia,0,1,cards
+1421,DESKTOP,9,63,Tuesday,18,April,2018,Direct,OTHERS,Finland,Pohjanmaa,0,1,cards
+1421,DESKTOP,4,87,Tuesday,23,April,2018,Direct,OTHERS,Guatemala,Escuintla,0,1,cards
+1421,DESKTOP,8,57,Tuesday,15,April,2018,Direct,OTHERS,Jamaica,Saint James,0,1,cards
+1421,DESKTOP,9,101,Tuesday,14,April,2018,Direct,OTHERS,Singapore,Singapore,0,1,cards
+1421,DESKTOP,2,98,Tuesday,0,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,DESKTOP,8,54,Tuesday,1,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,10,194,Tuesday,1,April,2018,Direct,OTHERS,United States of America,California,0,3,cards
+1421,DESKTOP,25,226,Tuesday,0,April,2018,Direct,OTHERS,United States of America,Florida,0,3,cards
+1421,DESKTOP,7,145,Tuesday,1,April,2018,Direct,OTHERS,United States of America,Georgia,0,2,cards
+1421,DESKTOP,12,57,Tuesday,2,April,2018,Direct,OTHERS,United States of America,Hawaii,0,1,cards
+1421,DESKTOP,3,72,Tuesday,1,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,DESKTOP,45,464,Tuesday,2,April,2018,Direct,OTHERS,United States of America,Michigan,0,3,cards
+1421,DESKTOP,12,153,Tuesday,2,April,2018,Direct,OTHERS,United States of America,Minnesota,0,2,cards
+1421,DESKTOP,2,52,Tuesday,2,April,2018,Direct,OTHERS,United States of America,Mississippi,0,1,cards
+1421,DESKTOP,4,52,Tuesday,2,April,2018,Direct,OTHERS,United States of America,Missouri,0,1,cards
+1421,DESKTOP,12,128,Tuesday,2,April,2018,Direct,OTHERS,United States of America,Nebraska,0,2,cards
+1421,DESKTOP,17,160,Tuesday,1,April,2018,Direct,OTHERS,United States of America,New Jersey,0,3,cards
+1421,DESKTOP,1,152,Tuesday,2,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,24,280,Tuesday,2,April,2018,Direct,OTHERS,United States of America,North Carolina,0,3,cards
+1421,DESKTOP,2,82,Tuesday,2,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,9,53,Tuesday,0,April,2018,Direct,OTHERS,United States of America,Oklahoma,0,1,cards
+1421,DESKTOP,4,53,Tuesday,0,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,DESKTOP,11,119,Tuesday,2,April,2018,Direct,OTHERS,United States of America,Tennessee,0,2,cards
+1421,DESKTOP,15,134,Tuesday,0,April,2018,Direct,OTHERS,United States of America,Texas,0,2,cards
+1421,DESKTOP,9,52,Tuesday,1,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,5,55,Tuesday,5,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,DESKTOP,17,444,Tuesday,4,April,2018,Direct,OTHERS,United States of America,California,0,6,cards
+1421,DESKTOP,11,105,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Florida,0,2,cards
+1421,DESKTOP,4,80,Tuesday,5,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,DESKTOP,2,62,Tuesday,4,April,2018,Direct,OTHERS,United States of America,Hawaii,0,1,cards
+1421,DESKTOP,5,67,Tuesday,5,April,2018,Direct,OTHERS,United States of America,Idaho,0,1,cards
+1421,DESKTOP,4,63,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,3,60,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,DESKTOP,8,100,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,DESKTOP,8,176,Tuesday,4,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,DESKTOP,4,54,Tuesday,3,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,11,80,Tuesday,3,April,2018,Direct,OTHERS,United States of America,New Mexico,0,1,cards
+1421,DESKTOP,12,158,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Texas,0,2,cards
+1421,DESKTOP,7,59,Tuesday,7,April,2018,Direct,OTHERS,United States of America,Hawaii,0,1,cards
+1421,DESKTOP,4,64,Tuesday,11,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,3,92,Tuesday,11,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,3,55,Tuesday,10,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,7,64,Tuesday,13,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,DESKTOP,21,232,Tuesday,13,April,2018,Direct,OTHERS,United States of America,California,0,3,cards
+1421,DESKTOP,5,101,Tuesday,14,April,2018,Direct,OTHERS,United States of America,Connecticut,0,1,cards
+1421,DESKTOP,15,126,Tuesday,14,April,2018,Direct,OTHERS,United States of America,Florida,0,2,cards
+1421,DESKTOP,4,62,Tuesday,13,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,9,229,Tuesday,13,April,2018,Direct,OTHERS,United States of America,Kansas,0,2,cards
+1421,DESKTOP,4,81,Tuesday,14,April,2018,Direct,OTHERS,United States of America,Massachusetts,0,1,cards
+1421,DESKTOP,12,126,Tuesday,14,April,2018,Direct,OTHERS,United States of America,Missouri,0,2,cards
+1421,DESKTOP,10,56,Tuesday,12,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,4,52,Tuesday,14,April,2018,Direct,OTHERS,United States of America,Oklahoma,0,1,cards
+1421,DESKTOP,11,133,Tuesday,14,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,2,cards
+1421,DESKTOP,5,127,Tuesday,14,April,2018,Direct,OTHERS,United States of America,South Dakota,0,1,cards
+1421,DESKTOP,8,51,Tuesday,13,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,DESKTOP,4,166,Tuesday,13,April,2018,Direct,OTHERS,United States of America,Texas,0,2,cards
+1421,DESKTOP,2,53,Tuesday,14,April,2018,Direct,OTHERS,United States of America,West Virginia,0,1,cards
+1421,DESKTOP,3,56,Tuesday,12,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,4,90,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,DESKTOP,4,100,Tuesday,16,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,DESKTOP,17,100,Tuesday,15,April,2018,Direct,OTHERS,United States of America,Connecticut,0,1,cards
+1421,DESKTOP,6,182,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,4,59,Tuesday,15,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,DESKTOP,18,152,Tuesday,16,April,2018,Direct,OTHERS,United States of America,Illinois,0,2,cards
+1421,DESKTOP,3,57,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,DESKTOP,7,51,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,DESKTOP,5,55,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,DESKTOP,2,60,Tuesday,15,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,10,298,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Missouri,0,2,cards
+1421,DESKTOP,1,55,Tuesday,16,April,2018,Direct,OTHERS,United States of America,Montana,0,1,cards
+1421,DESKTOP,13,82,Tuesday,15,April,2018,Direct,OTHERS,United States of America,Nevada,0,1,cards
+1421,DESKTOP,20,106,Tuesday,16,April,2018,Direct,OTHERS,United States of America,New Jersey,0,2,cards
+1421,DESKTOP,7,135,Tuesday,16,April,2018,Direct,OTHERS,United States of America,New York,0,2,cards
+1421,DESKTOP,4,120,Tuesday,15,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,13,52,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,2,64,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,DESKTOP,22,186,Tuesday,15,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,3,cards
+1421,DESKTOP,3,166,Tuesday,15,April,2018,Direct,OTHERS,United States of America,Tennessee,0,2,cards
+1421,DESKTOP,25,266,Tuesday,15,April,2018,Direct,OTHERS,United States of America,Texas,0,4,cards
+1421,DESKTOP,9,74,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,4,51,Tuesday,16,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,6,66,Tuesday,19,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,DESKTOP,10,62,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,23,199,Tuesday,20,April,2018,Direct,OTHERS,United States of America,California,0,3,cards
+1421,DESKTOP,2,80,Tuesday,20,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,DESKTOP,9,51,Tuesday,20,April,2018,Direct,OTHERS,United States of America,Connecticut,0,1,cards
+1421,DESKTOP,8,52,Tuesday,20,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,24,125,Tuesday,20,April,2018,Direct,OTHERS,United States of America,Georgia,0,2,cards
+1421,DESKTOP,13,296,Tuesday,19,April,2018,Direct,OTHERS,United States of America,Hawaii,0,4,cards
+1421,DESKTOP,9,55,Tuesday,19,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,2,55,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,DESKTOP,21,347,Tuesday,20,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,DESKTOP,9,55,Tuesday,20,April,2018,Direct,OTHERS,United States of America,Massachusetts,0,1,cards
+1421,DESKTOP,1,68,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,18,161,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,12,73,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Nebraska,0,1,cards
+1421,DESKTOP,5,133,Tuesday,18,April,2018,Direct,OTHERS,United States of America,New Jersey,0,2,cards
+1421,DESKTOP,10,73,Tuesday,18,April,2018,Direct,OTHERS,United States of America,New Mexico,0,1,cards
+1421,DESKTOP,2,52,Tuesday,20,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,8,79,Tuesday,20,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,15,91,Tuesday,20,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,DESKTOP,33,237,Tuesday,19,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,3,cards
+1421,DESKTOP,4,51,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,DESKTOP,6,51,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,24,211,Tuesday,20,April,2018,Direct,OTHERS,United States of America,Virginia,0,3,cards
+1421,DESKTOP,10,84,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,32,171,Tuesday,20,April,2018,Direct,OTHERS,United States of America,West Virginia,0,2,cards
+1421,DESKTOP,24,142,Tuesday,20,April,2018,Direct,OTHERS,United States of America,Wyoming,0,1,cards
+1421,DESKTOP,13,194,Tuesday,23,April,2018,Direct,OTHERS,United States of America,California,0,3,cards
+1421,DESKTOP,5,78,Tuesday,23,April,2018,Direct,OTHERS,United States of America,Hawaii,0,1,cards
+1421,DESKTOP,10,67,Tuesday,22,April,2018,Direct,OTHERS,United States of America,Kentucky,0,1,cards
+1421,DESKTOP,10,68,Tuesday,23,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,DESKTOP,1,55,Tuesday,21,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,3,120,Tuesday,22,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,DESKTOP,18,130,Tuesday,22,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,2,cards
+1421,DESKTOP,20,380,Tuesday,21,April,2018,Direct,OTHERS,United States of America,Texas,0,6,cards
+1421,DESKTOP,9,54,Tuesday,21,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,12,59,Tuesday,17,April,2018,ORGANIC,OTHERS,United States of America,Mississippi,0,1,cards
+1421,DESKTOP,3,78,Tuesday,2,April,2018,ORGANIC,Bing,United States of America,California,0,1,cards
+1421,DESKTOP,8,61,Tuesday,0,April,2018,ORGANIC,Bing,United States of America,Oklahoma,0,1,cards
+1421,DESKTOP,2,61,Tuesday,2,April,2018,ORGANIC,Bing,United States of America,Virginia,0,1,cards
+1421,DESKTOP,10,53,Tuesday,4,April,2018,ORGANIC,Bing,United States of America,Colorado,0,1,cards
+1421,DESKTOP,1,70,Tuesday,5,April,2018,ORGANIC,Bing,United States of America,Florida,0,1,cards
+1421,DESKTOP,6,72,Tuesday,4,April,2018,ORGANIC,Bing,United States of America,Georgia,0,1,cards
+1421,DESKTOP,3,60,Tuesday,16,April,2018,ORGANIC,Bing,United States of America,Colorado,0,1,cards
+1421,DESKTOP,4,53,Tuesday,15,April,2018,ORGANIC,Bing,United States of America,Louisiana,0,1,cards
+1421,DESKTOP,4,60,Tuesday,17,April,2018,ORGANIC,Bing,United States of America,North Dakota,0,1,cards
+1421,DESKTOP,9,69,Tuesday,18,April,2018,ORGANIC,Bing,United States of America,Georgia,0,1,cards
+1421,DESKTOP,1,58,Tuesday,18,April,2018,ORGANIC,Bing,United States of America,Missouri,0,1,cards
+1421,DESKTOP,14,71,Tuesday,20,April,2018,ORGANIC,Bing,United States of America,New York,0,1,cards
+1421,DESKTOP,1,160,Tuesday,19,April,2018,ORGANIC,Bing,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,10,61,Tuesday,19,April,2018,ORGANIC,Bing,United States of America,West Virginia,0,1,cards
+1421,DESKTOP,8,51,Tuesday,21,April,2018,ORGANIC,Bing,United States of America,New York,0,1,cards
+1421,DESKTOP,7,171,Tuesday,0,April,2018,ORGANIC,Facebook,United States of America,California,0,1,cards
+1421,DESKTOP,2,67,Tuesday,1,April,2018,ORGANIC,Facebook,United States of America,Ohio,0,1,cards
+1421,DESKTOP,2,364,Tuesday,3,April,2018,ORGANIC,Facebook,United States of America,California,0,1,cards
+1421,DESKTOP,3,160,Tuesday,5,April,2018,ORGANIC,Facebook,United States of America,Georgia,0,1,cards
+1421,DESKTOP,6,79,Tuesday,5,April,2018,ORGANIC,Facebook,United States of America,Louisiana,0,1,cards
+1421,DESKTOP,3,55,Tuesday,12,April,2018,ORGANIC,Facebook,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,8,53,Tuesday,14,April,2018,ORGANIC,Facebook,United States of America,Texas,0,1,cards
+1421,DESKTOP,3,61,Tuesday,15,April,2018,ORGANIC,Facebook,United States of America,Georgia,0,1,cards
+1421,DESKTOP,4,79,Tuesday,15,April,2018,ORGANIC,Facebook,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,2,52,Tuesday,22,April,2018,ORGANIC,Facebook,United States of America,Texas,0,1,cards
+1421,DESKTOP,9,105,Tuesday,2,April,2018,ORGANIC,Google,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,9,55,Tuesday,13,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,cards
+1421,DESKTOP,9,57,Tuesday,13,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,2,58,Tuesday,14,April,2018,ORGANIC,Google,United States of America,Texas,0,1,cards
+1421,DESKTOP,32,203,Tuesday,15,April,2018,ORGANIC,Google,United States of America,California,0,2,cards
+1421,DESKTOP,9,51,Tuesday,17,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,cards
+1421,DESKTOP,12,68,Tuesday,15,April,2018,ORGANIC,Google,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,9,51,Tuesday,17,April,2018,ORGANIC,Google,United States of America,Oklahoma,0,1,cards
+1421,DESKTOP,9,56,Tuesday,17,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,26,135,Tuesday,20,April,2018,ORGANIC,Google,United States of America,Arkansas,0,2,cards
+1421,DESKTOP,5,60,Tuesday,19,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,cards
+1421,DESKTOP,4,66,Tuesday,20,April,2018,ORGANIC,Google,United States of America,New York,0,1,cards
+1421,DESKTOP,9,56,Tuesday,19,April,2018,ORGANIC,Google,United States of America,North Dakota,0,1,cards
+1421,DESKTOP,2,90,Tuesday,22,April,2018,ORGANIC,Google,United States of America,California,0,1,cards
+1421,DESKTOP,1,55,Tuesday,22,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,cards
+1421,DESKTOP,5,66,Tuesday,21,April,2018,ORGANIC,Google,United States of America,Michigan,0,1,cards
+1421,DESKTOP,6,86,Tuesday,22,April,2018,ORGANIC,Google,United States of America,North Dakota,0,1,cards
+1421,DESKTOP,1,240,Tuesday,22,April,2018,ORGANIC,Google,United States of America,Texas,0,1,cards
+1421,DESKTOP,3,54,Tuesday,0,April,2018,ORGANIC,Pinterest,United States of America,New York,0,1,cards
+1421,DESKTOP,4,56,Tuesday,0,April,2018,ORGANIC,Yahoo,United States of America,Louisiana,0,1,cards
+1421,DESKTOP,3,61,Tuesday,2,April,2018,ORGANIC,Yahoo,United States of America,Wisconsin,0,1,cards
+1421,DESKTOP,9,55,Tuesday,23,April,2018,ORGANIC,Yahoo,United States of America,Nebraska,0,1,cards
+1421,DESKTOP,1,55,Wednesday,4,April,2018,Direct,OTHERS,Australia,Queensland,0,1,cards
+1421,DESKTOP,16,135,Wednesday,0,April,2018,Direct,OTHERS,Canada,Ontario,0,2,cards
+1421,DESKTOP,8,52,Wednesday,21,April,2018,Direct,OTHERS,Canada,Northwest Territories,0,1,cards
+1421,DESKTOP,4,51,Wednesday,18,April,2018,Direct,OTHERS,Ireland,Dublin,0,1,cards
+1421,DESKTOP,17,103,Wednesday,9,April,2018,Direct,OTHERS,Italy,Lombardia,0,1,cards
+1421,DESKTOP,7,51,Wednesday,10,April,2018,Direct,OTHERS,South Africa,Gauteng,0,1,cards
+1421,DESKTOP,3,52,Wednesday,2,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,DESKTOP,12,286,Wednesday,0,April,2018,Direct,OTHERS,United States of America,California,0,3,cards
+1421,DESKTOP,7,54,Wednesday,1,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,9,62,Wednesday,1,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,DESKTOP,12,70,Wednesday,2,April,2018,Direct,OTHERS,United States of America,Idaho,0,1,cards
+1421,DESKTOP,4,145,Wednesday,0,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,2,73,Wednesday,2,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,DESKTOP,12,54,Wednesday,0,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,14,98,Wednesday,0,April,2018,Direct,OTHERS,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,8,52,Wednesday,0,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,9,69,Wednesday,0,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,22,129,Wednesday,2,April,2018,Direct,OTHERS,United States of America,South Dakota,0,1,cards
+1421,DESKTOP,7,59,Wednesday,2,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,DESKTOP,5,262,Wednesday,0,April,2018,Direct,OTHERS,United States of America,Texas,0,2,cards
+1421,DESKTOP,15,145,Wednesday,0,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,2,cards
+1421,DESKTOP,20,231,Wednesday,5,April,2018,Direct,OTHERS,United States of America,California,0,3,cards
+1421,DESKTOP,2,62,Wednesday,3,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,DESKTOP,17,539,Wednesday,3,April,2018,Direct,OTHERS,United States of America,Florida,0,3,cards
+1421,DESKTOP,5,54,Wednesday,3,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,DESKTOP,5,97,Wednesday,3,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,DESKTOP,9,179,Wednesday,5,April,2018,Direct,OTHERS,United States of America,Missouri,0,3,cards
+1421,DESKTOP,2,60,Wednesday,4,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,22,506,Wednesday,4,April,2018,Direct,OTHERS,United States of America,New York,0,3,cards
+1421,DESKTOP,9,351,Wednesday,4,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,12,192,Wednesday,5,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,21,347,Wednesday,6,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,DESKTOP,4,68,Wednesday,8,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,3,52,Wednesday,11,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,4,56,Wednesday,14,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,DESKTOP,5,189,Wednesday,14,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,DESKTOP,1,52,Wednesday,12,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,4,60,Wednesday,14,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,DESKTOP,25,216,Wednesday,13,April,2018,Direct,OTHERS,United States of America,Illinois,0,4,cards
+1421,DESKTOP,17,187,Wednesday,13,April,2018,Direct,OTHERS,United States of America,Indiana,0,2,cards
+1421,DESKTOP,4,54,Wednesday,14,April,2018,Direct,OTHERS,United States of America,Massachusetts,0,1,cards
+1421,DESKTOP,20,177,Wednesday,14,April,2018,Direct,OTHERS,United States of America,Michigan,0,3,cards
+1421,DESKTOP,1,120,Wednesday,13,April,2018,Direct,OTHERS,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,21,150,Wednesday,14,April,2018,Direct,OTHERS,United States of America,New Jersey,0,2,cards
+1421,DESKTOP,21,240,Wednesday,12,April,2018,Direct,OTHERS,United States of America,New York,0,3,cards
+1421,DESKTOP,9,122,Wednesday,12,April,2018,Direct,OTHERS,United States of America,North Carolina,0,2,cards
+1421,DESKTOP,5,52,Wednesday,13,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,16,163,Wednesday,14,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,2,cards
+1421,DESKTOP,7,51,Wednesday,14,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,DESKTOP,4,52,Wednesday,13,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,15,149,Wednesday,14,April,2018,Direct,OTHERS,United States of America,Virginia,0,2,cards
+1421,DESKTOP,3,144,Wednesday,13,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,3,110,Wednesday,16,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,14,141,Wednesday,16,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,DESKTOP,27,160,Wednesday,17,April,2018,Direct,OTHERS,United States of America,Colorado,0,2,cards
+1421,DESKTOP,10,122,Wednesday,15,April,2018,Direct,OTHERS,United States of America,Florida,0,2,cards
+1421,DESKTOP,11,107,Wednesday,15,April,2018,Direct,OTHERS,United States of America,Illinois,0,2,cards
+1421,DESKTOP,7,64,Wednesday,16,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,DESKTOP,30,218,Wednesday,15,April,2018,Direct,OTHERS,United States of America,Michigan,0,4,cards
+1421,DESKTOP,3,65,Wednesday,16,April,2018,Direct,OTHERS,United States of America,Montana,0,1,cards
+1421,DESKTOP,16,72,Wednesday,16,April,2018,Direct,OTHERS,United States of America,Nebraska,0,1,cards
+1421,DESKTOP,5,51,Wednesday,15,April,2018,Direct,OTHERS,United States of America,Nevada,0,1,cards
+1421,DESKTOP,16,192,Wednesday,15,April,2018,Direct,OTHERS,United States of America,New York,0,3,cards
+1421,DESKTOP,14,64,Wednesday,17,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,2,57,Wednesday,16,April,2018,Direct,OTHERS,United States of America,Oklahoma,0,1,cards
+1421,DESKTOP,4,106,Wednesday,17,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,DESKTOP,30,259,Wednesday,17,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,DESKTOP,5,70,Wednesday,17,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,DESKTOP,10,114,Wednesday,17,April,2018,Direct,OTHERS,United States of America,Virginia,0,2,cards
+1421,DESKTOP,4,88,Wednesday,15,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,13,127,Wednesday,15,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,2,cards
+1421,DESKTOP,1,96,Wednesday,18,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,DESKTOP,17,119,Wednesday,19,April,2018,Direct,OTHERS,United States of America,Arizona,0,2,cards
+1421,DESKTOP,36,401,Wednesday,19,April,2018,Direct,OTHERS,United States of America,California,0,6,cards
+1421,DESKTOP,26,198,Wednesday,18,April,2018,Direct,OTHERS,United States of America,Colorado,0,3,cards
+1421,DESKTOP,10,53,Wednesday,19,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,DESKTOP,14,87,Wednesday,20,April,2018,Direct,OTHERS,United States of America,Idaho,0,1,cards
+1421,DESKTOP,3,90,Wednesday,18,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,DESKTOP,13,184,Wednesday,20,April,2018,Direct,OTHERS,United States of America,Kansas,0,2,cards
+1421,DESKTOP,2,62,Wednesday,20,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,7,198,Wednesday,20,April,2018,Direct,OTHERS,United States of America,Minnesota,0,2,cards
+1421,DESKTOP,8,90,Wednesday,20,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,26,255,Wednesday,18,April,2018,Direct,OTHERS,United States of America,North Dakota,0,3,cards
+1421,DESKTOP,10,62,Wednesday,18,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,DESKTOP,4,86,Wednesday,18,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,DESKTOP,13,128,Wednesday,20,April,2018,Direct,OTHERS,United States of America,Texas,0,2,cards
+1421,DESKTOP,10,57,Wednesday,18,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,DESKTOP,6,53,Wednesday,19,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,DESKTOP,3,129,Wednesday,20,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,2,cards
+1421,DESKTOP,7,155,Wednesday,21,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,DESKTOP,8,93,Wednesday,22,April,2018,Direct,OTHERS,United States of America,Delaware,0,1,cards
+1421,DESKTOP,1,55,Wednesday,21,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,9,54,Wednesday,21,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,DESKTOP,7,52,Wednesday,22,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,DESKTOP,9,54,Wednesday,22,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,DESKTOP,13,82,Wednesday,21,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,DESKTOP,6,52,Wednesday,22,April,2018,Direct,OTHERS,United States of America,Mississippi,0,1,cards
+1421,DESKTOP,9,61,Wednesday,21,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,DESKTOP,5,113,Wednesday,21,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,5,54,Wednesday,21,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,DESKTOP,23,247,Wednesday,22,April,2018,Direct,OTHERS,United States of America,Texas,0,4,cards
+1421,DESKTOP,7,51,Wednesday,22,April,2018,Direct,OTHERS,United States of America,Wyoming,0,1,cards
+1421,DESKTOP,2,58,Wednesday,20,April,2018,ORGANIC,OTHERS,United States of America,Florida,0,1,cards
+1421,DESKTOP,5,55,Wednesday,10,April,2018,ORGANIC,Bing,Denmark,Sjelland,0,1,cards
+1421,DESKTOP,14,80,Wednesday,0,April,2018,ORGANIC,Bing,United States of America,Illinois,0,1,cards
+1421,DESKTOP,9,54,Wednesday,15,April,2018,ORGANIC,Bing,United States of America,Kansas,0,1,cards
+1421,DESKTOP,5,53,Wednesday,15,April,2018,ORGANIC,Bing,United States of America,North Carolina,0,1,cards
+1421,DESKTOP,14,93,Wednesday,15,April,2018,ORGANIC,Bing,United States of America,Tennessee,0,1,cards
+1421,DESKTOP,5,149,Wednesday,15,April,2018,ORGANIC,Bing,United States of America,Texas,0,2,cards
+1421,DESKTOP,3,61,Wednesday,18,April,2018,ORGANIC,Bing,United States of America,Colorado,0,1,cards
+1421,DESKTOP,18,122,Wednesday,18,April,2018,ORGANIC,Bing,United States of America,Illinois,0,2,cards
+1421,DESKTOP,1,240,Wednesday,23,April,2018,ORGANIC,Bing,United States of America,Nevada,0,1,cards
+1421,DESKTOP,1,85,Wednesday,19,April,2018,ORGANIC,Facebook,United States of America,District of Columbia,0,1,cards
+1421,DESKTOP,4,56,Wednesday,22,April,2018,ORGANIC,Facebook,United States of America,Ohio,0,1,cards
+1421,DESKTOP,9,51,Wednesday,1,April,2018,ORGANIC,Google,United States of America,Arkansas,0,1,cards
+1421,DESKTOP,4,62,Wednesday,1,April,2018,ORGANIC,Google,United States of America,Texas,0,1,cards
+1421,DESKTOP,2,55,Wednesday,3,April,2018,ORGANIC,Google,United States of America,California,0,1,cards
+1421,DESKTOP,21,234,Wednesday,4,April,2018,ORGANIC,Google,United States of America,Texas,0,2,cards
+1421,DESKTOP,9,57,Wednesday,14,April,2018,ORGANIC,Google,United States of America,California,0,1,cards
+1421,DESKTOP,6,101,Wednesday,13,April,2018,ORGANIC,Google,United States of America,Mississippi,0,1,cards
+1421,DESKTOP,2,53,Wednesday,16,April,2018,ORGANIC,Google,United States of America,Arizona,0,1,cards
+1421,DESKTOP,7,56,Wednesday,17,April,2018,ORGANIC,Google,United States of America,Minnesota,0,1,cards
+1421,DESKTOP,4,105,Wednesday,16,April,2018,ORGANIC,Google,United States of America,Oregon,0,1,cards
+1421,DESKTOP,8,139,Wednesday,17,April,2018,ORGANIC,Google,United States of America,Texas,0,1,cards
+1421,DESKTOP,9,54,Wednesday,20,April,2018,ORGANIC,Google,United States of America,Alabama,0,1,cards
+1421,DESKTOP,1,130,Wednesday,19,April,2018,ORGANIC,Google,United States of America,Florida,0,1,cards
+1421,DESKTOP,8,52,Wednesday,19,April,2018,ORGANIC,Google,United States of America,Mississippi,0,1,cards
+1421,DESKTOP,7,57,Wednesday,21,April,2018,ORGANIC,Google,United States of America,Arizona,0,1,cards
+1421,DESKTOP,7,58,Wednesday,22,April,2018,ORGANIC,Google,United States of America,Idaho,0,1,cards
+1421,DESKTOP,4,60,Wednesday,23,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,cards
+1421,DESKTOP,3,60,Wednesday,23,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,cards
+1421,DESKTOP,10,93,Wednesday,13,April,2018,ORGANIC,Pinterest,United States of America,Alabama,0,1,cards
+1421,DESKTOP,1,55,Wednesday,3,April,2018,ORGANIC,Yahoo,United States of America,Arizona,0,1,cards
+1421,DESKTOP,5,71,Wednesday,14,April,2018,ORGANIC,Yahoo,United States of America,Illinois,0,1,cards
+1421,DESKTOP,4,69,Wednesday,14,April,2018,ORGANIC,Yahoo,United States of America,Michigan,0,1,cards
+1421,DESKTOP,5,124,Wednesday,18,April,2018,ORGANIC,Yahoo,United States of America,North Carolina,0,2,cards
+1421,MOBILE,6,88,Friday,8,April,2018,Direct,OTHERS,Canada,British Columbia,0,1,cards
+1421,MOBILE,3,54,Friday,22,April,2018,Direct,OTHERS,"Korea, Republic of",Seoul-teukbyeolsi,0,1,cards
+1421,MOBILE,5,79,Friday,3,April,2018,Direct,OTHERS,Puerto Rico,Carolina,0,1,cards
+1421,MOBILE,8,98,Friday,2,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,MOBILE,7,113,Friday,0,April,2018,Direct,OTHERS,United States of America,Florida,0,2,cards
+1421,MOBILE,8,69,Friday,2,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,MOBILE,4,53,Friday,1,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,MOBILE,4,101,Friday,1,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,MOBILE,7,87,Friday,5,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,MOBILE,8,126,Friday,5,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,MOBILE,12,61,Friday,4,April,2018,Direct,OTHERS,United States of America,Connecticut,0,1,cards
+1421,MOBILE,5,70,Friday,3,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,MOBILE,7,191,Friday,3,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,4,57,Friday,5,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,MOBILE,3,60,Friday,7,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,4,54,Friday,10,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,1,252,Friday,9,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,2,68,Friday,11,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,MOBILE,3,56,Friday,13,April,2018,Direct,OTHERS,United States of America,Delaware,0,1,cards
+1421,MOBILE,17,232,Friday,13,April,2018,Direct,OTHERS,United States of America,Illinois,0,2,cards
+1421,MOBILE,5,53,Friday,13,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,MOBILE,3,86,Friday,14,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,13,181,Friday,16,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,MOBILE,3,60,Friday,15,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,MOBILE,3,61,Friday,15,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,10,77,Friday,15,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,MOBILE,4,105,Friday,17,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,MOBILE,9,58,Friday,17,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,MOBILE,4,65,Friday,16,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,7,119,Friday,16,April,2018,Direct,OTHERS,United States of America,North Carolina,0,2,cards
+1421,MOBILE,2,70,Friday,15,April,2018,Direct,OTHERS,United States of America,Utah,0,1,cards
+1421,MOBILE,6,67,Friday,18,April,2018,Direct,OTHERS,United States of America,Alaska,0,1,cards
+1421,MOBILE,15,119,Friday,19,April,2018,Direct,OTHERS,United States of America,Arkansas,0,2,cards
+1421,MOBILE,2,60,Friday,19,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,MOBILE,4,62,Friday,19,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,MOBILE,11,60,Friday,19,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,MOBILE,13,109,Friday,20,April,2018,Direct,OTHERS,United States of America,Louisiana,0,2,cards
+1421,MOBILE,7,116,Friday,19,April,2018,Direct,OTHERS,United States of America,New Jersey,0,2,cards
+1421,MOBILE,25,211,Friday,19,April,2018,Direct,OTHERS,United States of America,New Mexico,0,1,cards
+1421,MOBILE,6,85,Friday,19,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,MOBILE,4,80,Friday,20,April,2018,Direct,OTHERS,United States of America,Rhode Island,0,1,cards
+1421,MOBILE,1,55,Friday,21,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,MOBILE,1,64,Friday,22,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,6,82,Friday,22,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,MOBILE,7,104,Friday,21,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,MOBILE,2,55,Friday,21,April,2018,Direct,OTHERS,United States of America,Nevada,0,1,cards
+1421,MOBILE,2,128,Friday,23,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,MOBILE,1,128,Friday,23,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,6,70,Friday,2,April,2018,ORGANIC,Facebook,United States of America,North Carolina,0,1,cards
+1421,MOBILE,2,142,Friday,1,April,2018,ORGANIC,Google,United States of America,California,0,2,cards
+1421,MOBILE,2,55,Friday,7,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,cards
+1421,MOBILE,8,80,Friday,17,April,2018,ORGANIC,Google,United States of America,Colorado,0,1,cards
+1421,MOBILE,2,59,Friday,17,April,2018,ORGANIC,Google,United States of America,Mississippi,0,1,cards
+1421,MOBILE,3,54,Friday,15,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,cards
+1421,MOBILE,6,70,Friday,18,April,2018,ORGANIC,Yahoo,United States of America,Missouri,0,1,cards
+1421,MOBILE,5,60,Monday,18,April,2018,Direct,OTHERS,Australia,Victoria,0,1,cards
+1421,MOBILE,4,122,Monday,23,April,2018,Direct,OTHERS,Canada,Newfoundland and Labrador,0,1,cards
+1421,MOBILE,3,57,Monday,18,April,2018,Direct,OTHERS,Dominican Republic,La Vega,0,1,cards
+1421,MOBILE,5,75,Monday,3,April,2018,Direct,OTHERS,New Zealand,Bay of Plenty,0,1,cards
+1421,MOBILE,7,142,Monday,0,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,MOBILE,4,51,Monday,1,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,1,144,Monday,1,April,2018,Direct,OTHERS,United States of America,Minnesota,0,1,cards
+1421,MOBILE,4,60,Monday,1,April,2018,Direct,OTHERS,United States of America,New Mexico,0,1,cards
+1421,MOBILE,3,54,Monday,1,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,10,207,Monday,1,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,2,cards
+1421,MOBILE,5,146,Monday,4,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,MOBILE,1,75,Monday,5,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,MOBILE,10,78,Monday,5,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,MOBILE,9,57,Monday,3,April,2018,Direct,OTHERS,United States of America,Massachusetts,0,1,cards
+1421,MOBILE,1,55,Monday,5,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,4,52,Monday,4,April,2018,Direct,OTHERS,United States of America,Oklahoma,0,1,cards
+1421,MOBILE,6,57,Monday,5,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,5,115,Monday,6,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,MOBILE,3,73,Monday,8,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,MOBILE,7,86,Monday,7,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,MOBILE,7,262,Monday,9,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,3,51,Monday,13,April,2018,Direct,OTHERS,United States of America,Alaska,0,1,cards
+1421,MOBILE,3,66,Monday,14,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,4,51,Monday,12,April,2018,Direct,OTHERS,United States of America,District of Columbia,0,1,cards
+1421,MOBILE,4,67,Monday,14,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,5,52,Monday,14,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,MOBILE,4,56,Monday,14,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,MOBILE,5,54,Monday,14,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,MOBILE,6,54,Monday,14,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,8,176,Monday,14,April,2018,Direct,OTHERS,United States of America,New York,0,2,cards
+1421,MOBILE,5,59,Monday,14,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,MOBILE,3,84,Monday,13,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,21,127,Monday,16,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,MOBILE,6,147,Monday,16,April,2018,Direct,OTHERS,United States of America,Arizona,0,2,cards
+1421,MOBILE,5,59,Monday,15,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,MOBILE,3,59,Monday,15,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,15,139,Monday,16,April,2018,Direct,OTHERS,United States of America,Colorado,0,2,cards
+1421,MOBILE,2,57,Monday,16,April,2018,Direct,OTHERS,United States of America,Delaware,0,1,cards
+1421,MOBILE,15,127,Monday,15,April,2018,Direct,OTHERS,United States of America,Florida,0,2,cards
+1421,MOBILE,8,57,Monday,15,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,4,69,Monday,17,April,2018,Direct,OTHERS,United States of America,Idaho,0,1,cards
+1421,MOBILE,12,105,Monday,16,April,2018,Direct,OTHERS,United States of America,Illinois,0,2,cards
+1421,MOBILE,19,320,Monday,15,April,2018,Direct,OTHERS,United States of America,Indiana,0,4,cards
+1421,MOBILE,6,68,Monday,16,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,MOBILE,14,117,Monday,15,April,2018,Direct,OTHERS,United States of America,Louisiana,0,2,cards
+1421,MOBILE,9,139,Monday,15,April,2018,Direct,OTHERS,United States of America,Missouri,0,2,cards
+1421,MOBILE,16,240,Monday,17,April,2018,Direct,OTHERS,United States of America,New Jersey,0,3,cards
+1421,MOBILE,1,54,Monday,17,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,9,55,Monday,16,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,MOBILE,2,53,Monday,15,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,MOBILE,5,68,Monday,15,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,MOBILE,4,74,Monday,17,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,MOBILE,33,415,Monday,16,April,2018,Direct,OTHERS,United States of America,Texas,0,4,cards
+1421,MOBILE,7,144,Monday,16,April,2018,Direct,OTHERS,United States of America,Virginia,0,2,cards
+1421,MOBILE,16,117,Monday,15,April,2018,Direct,OTHERS,United States of America,Washington,0,2,cards
+1421,MOBILE,5,71,Monday,15,April,2018,Direct,OTHERS,United States of America,West Virginia,0,1,cards
+1421,MOBILE,19,207,Monday,18,April,2018,Direct,OTHERS,United States of America,Alabama,0,3,cards
+1421,MOBILE,25,840,Monday,18,April,2018,Direct,OTHERS,United States of America,California,0,4,cards
+1421,MOBILE,28,418,Monday,20,April,2018,Direct,OTHERS,United States of America,Florida,0,3,cards
+1421,MOBILE,7,111,Monday,19,April,2018,Direct,OTHERS,United States of America,Georgia,0,2,cards
+1421,MOBILE,12,171,Monday,18,April,2018,Direct,OTHERS,United States of America,Illinois,0,3,cards
+1421,MOBILE,12,69,Monday,18,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,MOBILE,5,60,Monday,19,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,MOBILE,21,216,Monday,19,April,2018,Direct,OTHERS,United States of America,Minnesota,0,3,cards
+1421,MOBILE,17,127,Monday,20,April,2018,Direct,OTHERS,United States of America,New Jersey,0,2,cards
+1421,MOBILE,3,69,Monday,18,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,MOBILE,18,217,Monday,18,April,2018,Direct,OTHERS,United States of America,Ohio,0,3,cards
+1421,MOBILE,7,52,Monday,19,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,MOBILE,5,66,Monday,19,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,MOBILE,15,116,Monday,23,April,2018,Direct,OTHERS,United States of America,Alabama,0,2,cards
+1421,MOBILE,14,212,Monday,23,April,2018,Direct,OTHERS,United States of America,Colorado,0,3,cards
+1421,MOBILE,7,64,Monday,21,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,5,63,Monday,23,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,MOBILE,8,110,Monday,23,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,MOBILE,5,71,Monday,23,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,MOBILE,7,60,Monday,22,April,2018,Direct,OTHERS,United States of America,Minnesota,0,1,cards
+1421,MOBILE,1,60,Monday,22,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,1,96,Monday,22,April,2018,Direct,OTHERS,United States of America,New Mexico,0,1,cards
+1421,MOBILE,8,167,Monday,23,April,2018,Direct,OTHERS,United States of America,North Carolina,0,2,cards
+1421,MOBILE,4,84,Monday,21,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,MOBILE,14,222,Monday,21,April,2018,Direct,OTHERS,United States of America,Texas,0,2,cards
+1421,MOBILE,23,164,Monday,21,April,2018,Direct,OTHERS,United States of America,Washington,0,3,cards
+1421,MOBILE,1,61,Monday,21,April,2018,Direct,OTHERS,United States of America,West Virginia,0,1,cards
+1421,MOBILE,8,67,Monday,22,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,MOBILE,2,51,Monday,3,April,2018,ORGANIC,Bing,United States of America,New York,0,1,cards
+1421,MOBILE,1,55,Monday,14,April,2018,ORGANIC,Bing,United States of America,Georgia,0,1,cards
+1421,MOBILE,6,64,Monday,20,April,2018,ORGANIC,Bing,United States of America,Georgia,0,1,cards
+1421,MOBILE,8,53,Monday,5,April,2018,ORGANIC,Facebook,United States of America,Nebraska,0,1,cards
+1421,MOBILE,2,164,Monday,5,April,2018,ORGANIC,Facebook,United States of America,Texas,0,1,cards
+1421,MOBILE,7,111,Monday,16,April,2018,ORGANIC,Facebook,United States of America,Illinois,0,2,cards
+1421,MOBILE,3,62,Monday,16,April,2018,ORGANIC,Facebook,United States of America,New Jersey,0,1,cards
+1421,MOBILE,3,52,Monday,22,April,2018,ORGANIC,Facebook,United States of America,Texas,0,1,cards
+1421,MOBILE,4,112,Monday,19,April,2018,ORGANIC,Google,Canada,Saskatchewan,0,1,cards
+1421,MOBILE,5,71,Monday,21,April,2018,ORGANIC,Google,South Africa,Western Cape,0,1,cards
+1421,MOBILE,7,60,Monday,2,April,2018,ORGANIC,Google,United States of America,Alabama,0,1,cards
+1421,MOBILE,2,110,Monday,2,April,2018,ORGANIC,Google,United States of America,Colorado,0,1,cards
+1421,MOBILE,12,54,Monday,4,April,2018,ORGANIC,Google,United States of America,Missouri,0,1,cards
+1421,MOBILE,8,113,Monday,14,April,2018,ORGANIC,Google,United States of America,Alaska,0,1,cards
+1421,MOBILE,6,99,Monday,14,April,2018,ORGANIC,Google,United States of America,Connecticut,0,1,cards
+1421,MOBILE,2,52,Monday,14,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,cards
+1421,MOBILE,5,54,Monday,14,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,cards
+1421,MOBILE,4,87,Monday,15,April,2018,ORGANIC,Google,United States of America,Florida,0,1,cards
+1421,MOBILE,2,60,Monday,17,April,2018,ORGANIC,Google,United States of America,Kentucky,0,1,cards
+1421,MOBILE,4,57,Monday,19,April,2018,ORGANIC,Google,United States of America,Kansas,0,1,cards
+1421,MOBILE,4,100,Monday,18,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,cards
+1421,MOBILE,3,105,Monday,23,April,2018,ORGANIC,Google,United States of America,Colorado,0,1,cards
+1421,MOBILE,5,55,Monday,22,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,cards
+1421,MOBILE,2,57,Monday,22,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,cards
+1421,MOBILE,10,78,Monday,23,April,2018,ORGANIC,Google,United States of America,New Mexico,0,1,cards
+1421,MOBILE,4,60,Monday,22,April,2018,ORGANIC,Google,United States of America,Tennessee,0,1,cards
+1421,MOBILE,18,71,Monday,20,April,2018,ORGANIC,Yahoo,Canada,Ontario,0,1,cards
+1421,MOBILE,16,192,Saturday,14,April,2018,Direct,OTHERS,Canada,Manitoba,0,1,cards
+1421,MOBILE,3,65,Saturday,1,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,MOBILE,4,61,Saturday,0,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,2,70,Saturday,1,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,MOBILE,3,55,Saturday,2,April,2018,Direct,OTHERS,United States of America,Kentucky,0,1,cards
+1421,MOBILE,6,62,Saturday,0,April,2018,Direct,OTHERS,United States of America,Missouri,0,1,cards
+1421,MOBILE,14,87,Saturday,0,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,6,164,Saturday,4,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,8,66,Saturday,5,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,MOBILE,7,61,Saturday,4,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,MOBILE,7,78,Saturday,4,April,2018,Direct,OTHERS,United States of America,Mississippi,0,1,cards
+1421,MOBILE,8,203,Saturday,3,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,3,58,Saturday,4,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,3,55,Saturday,3,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,MOBILE,3,52,Saturday,9,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,MOBILE,3,60,Saturday,9,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,MOBILE,3,64,Saturday,11,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,9,74,Saturday,10,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,MOBILE,4,62,Saturday,14,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,MOBILE,3,62,Saturday,13,April,2018,Direct,OTHERS,United States of America,District of Columbia,0,1,cards
+1421,MOBILE,14,103,Saturday,12,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,1,240,Saturday,12,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,9,51,Saturday,13,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,MOBILE,3,66,Saturday,13,April,2018,Direct,OTHERS,United States of America,West Virginia,0,1,cards
+1421,MOBILE,7,83,Saturday,16,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,14,86,Saturday,17,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,MOBILE,4,63,Saturday,17,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,MOBILE,9,230,Saturday,17,April,2018,Direct,OTHERS,United States of America,Nevada,0,1,cards
+1421,MOBILE,3,53,Saturday,17,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,3,51,Saturday,17,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,MOBILE,8,205,Saturday,16,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,MOBILE,17,167,Saturday,17,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,MOBILE,21,249,Saturday,18,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,MOBILE,10,57,Saturday,19,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,MOBILE,12,92,Saturday,20,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,MOBILE,6,78,Saturday,20,April,2018,Direct,OTHERS,United States of America,Montana,0,1,cards
+1421,MOBILE,11,57,Saturday,19,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,4,59,Saturday,18,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,3,62,Saturday,18,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,MOBILE,4,100,Saturday,22,April,2018,Direct,OTHERS,United States of America,Massachusetts,0,1,cards
+1421,MOBILE,6,116,Saturday,21,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,MOBILE,4,101,Saturday,23,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,3,56,Saturday,23,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,MOBILE,3,99,Saturday,22,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,MOBILE,7,104,Saturday,2,April,2018,ORGANIC,Facebook,United States of America,Michigan,0,1,cards
+1421,MOBILE,5,65,Saturday,4,April,2018,ORGANIC,Facebook,United States of America,Iowa,0,1,cards
+1421,MOBILE,4,58,Saturday,2,April,2018,ORGANIC,Google,United States of America,New York,0,1,cards
+1421,MOBILE,4,55,Saturday,1,April,2018,ORGANIC,Google,United States of America,Tennessee,0,1,cards
+1421,MOBILE,1,55,Saturday,0,April,2018,ORGANIC,Google,United States of America,Washington,0,1,cards
+1421,MOBILE,7,53,Saturday,15,April,2018,ORGANIC,Google,United States of America,Florida,0,1,cards
+1421,MOBILE,3,100,Saturday,16,April,2018,ORGANIC,Google,United States of America,Minnesota,0,1,cards
+1421,MOBILE,2,65,Saturday,19,April,2018,ORGANIC,Google,United States of America,Florida,0,1,cards
+1421,MOBILE,2,69,Saturday,21,April,2018,ORGANIC,Google,United States of America,California,0,1,cards
+1421,MOBILE,1,76,Saturday,2,April,2018,ORGANIC,Yahoo,United States of America,New York,0,1,cards
+1421,MOBILE,8,57,Sunday,22,April,2018,Direct,OTHERS,Australia,Queensland,0,1,cards
+1421,MOBILE,3,56,Sunday,1,April,2018,Direct,OTHERS,Dominican Republic,Distrito Nacional (Santo Domingo),0,1,cards
+1421,MOBILE,14,127,Sunday,14,April,2018,Direct,OTHERS,Hong Kong,Hong Kong (SAR),0,1,cards
+1421,MOBILE,7,67,Sunday,22,April,2018,Direct,OTHERS,Sweden,Stockholms lan,0,1,cards
+1421,MOBILE,4,90,Sunday,22,April,2018,Direct,OTHERS,United Kingdom,Northern Ireland,0,1,cards
+1421,MOBILE,15,168,Sunday,2,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,MOBILE,6,60,Sunday,0,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,MOBILE,9,155,Sunday,0,April,2018,Direct,OTHERS,United States of America,Montana,0,1,cards
+1421,MOBILE,7,118,Sunday,2,April,2018,Direct,OTHERS,United States of America,New Jersey,0,2,cards
+1421,MOBILE,5,58,Sunday,1,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,MOBILE,7,63,Sunday,1,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,MOBILE,8,51,Sunday,3,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,MOBILE,6,75,Sunday,5,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,MOBILE,5,64,Sunday,3,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,MOBILE,5,90,Sunday,4,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,9,77,Sunday,3,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,MOBILE,13,69,Sunday,4,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,8,133,Sunday,8,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,MOBILE,3,58,Sunday,12,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,MOBILE,6,58,Sunday,12,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,10,55,Sunday,16,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,7,78,Sunday,16,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,MOBILE,2,57,Sunday,15,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,MOBILE,3,70,Sunday,15,April,2018,Direct,OTHERS,United States of America,Minnesota,0,1,cards
+1421,MOBILE,3,76,Sunday,16,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,4,68,Sunday,15,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,MOBILE,7,62,Sunday,16,April,2018,Direct,OTHERS,United States of America,South Dakota,0,1,cards
+1421,MOBILE,7,53,Sunday,17,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,MOBILE,3,87,Sunday,16,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,18,202,Sunday,16,April,2018,Direct,OTHERS,United States of America,Utah,0,2,cards
+1421,MOBILE,1,152,Sunday,20,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,3,69,Sunday,20,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,MOBILE,8,55,Sunday,20,April,2018,Direct,OTHERS,United States of America,Connecticut,0,1,cards
+1421,MOBILE,5,61,Sunday,19,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,MOBILE,10,147,Sunday,18,April,2018,Direct,OTHERS,United States of America,New Jersey,0,2,cards
+1421,MOBILE,4,55,Sunday,20,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,MOBILE,3,51,Sunday,19,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,MOBILE,22,350,Sunday,23,April,2018,Direct,OTHERS,United States of America,Illinois,0,2,cards
+1421,MOBILE,14,188,Sunday,23,April,2018,Direct,OTHERS,United States of America,Missouri,0,1,cards
+1421,MOBILE,11,100,Sunday,22,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,4,78,Sunday,23,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,7,95,Sunday,21,April,2018,Direct,OTHERS,United States of America,Oklahoma,0,1,cards
+1421,MOBILE,39,170,Sunday,22,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,5,53,Sunday,16,April,2018,ORGANIC,Facebook,United States of America,Illinois,0,1,cards
+1421,MOBILE,13,59,Sunday,0,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,cards
+1421,MOBILE,1,68,Sunday,1,April,2018,ORGANIC,Google,United States of America,South Carolina,0,1,cards
+1421,MOBILE,7,62,Sunday,3,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,cards
+1421,MOBILE,12,65,Sunday,12,April,2018,ORGANIC,Google,United States of America,Michigan,0,1,cards
+1421,MOBILE,6,110,Sunday,17,April,2018,ORGANIC,Google,United States of America,Arkansas,0,1,cards
+1421,MOBILE,1,62,Sunday,16,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,cards
+1421,MOBILE,2,60,Sunday,16,April,2018,ORGANIC,Google,United States of America,Indiana,0,1,cards
+1421,MOBILE,8,63,Sunday,15,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,cards
+1421,MOBILE,3,93,Sunday,19,April,2018,ORGANIC,Google,United States of America,Nebraska,0,1,cards
+1421,MOBILE,5,123,Thursday,0,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,10,54,Thursday,1,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,MOBILE,12,189,Thursday,1,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,5,63,Thursday,1,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,5,124,Thursday,1,April,2018,Direct,OTHERS,United States of America,Utah,0,1,cards
+1421,MOBILE,3,61,Thursday,5,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,MOBILE,1,67,Thursday,4,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,5,55,Thursday,4,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,7,51,Thursday,3,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,MOBILE,5,80,Thursday,3,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,MOBILE,9,52,Thursday,3,April,2018,Direct,OTHERS,United States of America,North Dakota,0,1,cards
+1421,MOBILE,4,52,Thursday,5,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,MOBILE,4,59,Thursday,3,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,4,59,Thursday,4,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,MOBILE,3,57,Thursday,3,April,2018,Direct,OTHERS,United States of America,West Virginia,0,1,cards
+1421,MOBILE,22,88,Thursday,6,April,2018,Direct,OTHERS,United States of America,Nevada,0,1,cards
+1421,MOBILE,6,60,Thursday,10,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,3,61,Thursday,11,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,MOBILE,6,106,Thursday,13,April,2018,Direct,OTHERS,United States of America,Illinois,0,1,cards
+1421,MOBILE,3,82,Thursday,12,April,2018,Direct,OTHERS,United States of America,Iowa,0,1,cards
+1421,MOBILE,2,66,Thursday,14,April,2018,Direct,OTHERS,United States of America,Mississippi,0,1,cards
+1421,MOBILE,5,160,Thursday,14,April,2018,Direct,OTHERS,United States of America,Nevada,0,1,cards
+1421,MOBILE,3,54,Thursday,13,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,2,58,Thursday,15,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,MOBILE,6,152,Thursday,15,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,MOBILE,14,152,Thursday,15,April,2018,Direct,OTHERS,United States of America,Illinois,0,2,cards
+1421,MOBILE,5,58,Thursday,15,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,MOBILE,6,109,Thursday,17,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,MOBILE,14,312,Thursday,15,April,2018,Direct,OTHERS,United States of America,Texas,0,3,cards
+1421,MOBILE,3,52,Thursday,20,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,MOBILE,1,130,Thursday,19,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,8,56,Thursday,20,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,3,113,Thursday,19,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,29,116,Thursday,18,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,MOBILE,2,73,Thursday,21,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,18,165,Thursday,23,April,2018,Direct,OTHERS,United States of America,Illinois,0,2,cards
+1421,MOBILE,9,53,Thursday,23,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,MOBILE,11,70,Thursday,21,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,MOBILE,11,72,Thursday,22,April,2018,Direct,OTHERS,United States of America,Mississippi,0,1,cards
+1421,MOBILE,3,88,Thursday,23,April,2018,Direct,OTHERS,United States of America,Missouri,0,1,cards
+1421,MOBILE,5,87,Thursday,13,April,2018,ORGANIC,Facebook,United States of America,Washington,0,1,cards
+1421,MOBILE,4,63,Thursday,19,April,2018,ORGANIC,Facebook,United States of America,Connecticut,0,1,cards
+1421,MOBILE,1,160,Thursday,2,April,2018,ORGANIC,Google,United States of America,Alabama,0,1,cards
+1421,MOBILE,6,68,Thursday,2,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,cards
+1421,MOBILE,2,53,Thursday,1,April,2018,ORGANIC,Google,United States of America,New York,0,1,cards
+1421,MOBILE,6,51,Thursday,0,April,2018,ORGANIC,Google,United States of America,Wisconsin,0,1,cards
+1421,MOBILE,2,54,Thursday,3,April,2018,ORGANIC,Google,United States of America,Colorado,0,1,cards
+1421,MOBILE,2,51,Thursday,4,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,cards
+1421,MOBILE,34,170,Thursday,12,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,cards
+1421,MOBILE,3,51,Thursday,12,April,2018,ORGANIC,Google,United States of America,Missouri,0,1,cards
+1421,MOBILE,2,96,Thursday,14,April,2018,ORGANIC,Google,United States of America,Washington,0,1,cards
+1421,MOBILE,8,65,Thursday,17,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,cards
+1421,MOBILE,9,57,Thursday,16,April,2018,ORGANIC,Google,United States of America,Oklahoma,0,1,cards
+1421,MOBILE,10,54,Thursday,18,April,2018,ORGANIC,Google,United States of America,Connecticut,0,1,cards
+1421,MOBILE,6,61,Thursday,22,April,2018,ORGANIC,Google,United States of America,Missouri,0,1,cards
+1421,MOBILE,6,62,Tuesday,22,April,2018,Direct,OTHERS,-,-,0,1,cards
+1421,MOBILE,10,144,Tuesday,6,April,2018,Direct,OTHERS,Australia,Queensland,0,1,cards
+1421,MOBILE,3,59,Tuesday,21,April,2018,Direct,OTHERS,Australia,New South Wales,0,1,cards
+1421,MOBILE,7,52,Tuesday,11,April,2018,Direct,OTHERS,Canada,Saskatchewan,0,1,cards
+1421,MOBILE,6,51,Tuesday,18,April,2018,Direct,OTHERS,Canada,British Columbia,0,1,cards
+1421,MOBILE,13,131,Tuesday,15,April,2018,Direct,OTHERS,Malaysia,Johor,0,1,cards
+1421,MOBILE,2,60,Tuesday,14,April,2018,Direct,OTHERS,United Kingdom,England,0,1,cards
+1421,MOBILE,2,95,Tuesday,22,April,2018,Direct,OTHERS,United Kingdom,England,0,1,cards
+1421,MOBILE,6,76,Tuesday,1,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,MOBILE,1,54,Tuesday,2,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,MOBILE,17,166,Tuesday,1,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,MOBILE,4,54,Tuesday,2,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,4,106,Tuesday,1,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,MOBILE,10,106,Tuesday,1,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,9,93,Tuesday,2,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,MOBILE,4,81,Tuesday,1,April,2018,Direct,OTHERS,United States of America,Kentucky,0,1,cards
+1421,MOBILE,10,86,Tuesday,0,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,MOBILE,3,55,Tuesday,0,April,2018,Direct,OTHERS,United States of America,Nevada,0,1,cards
+1421,MOBILE,7,200,Tuesday,2,April,2018,Direct,OTHERS,United States of America,New Jersey,0,3,cards
+1421,MOBILE,19,202,Tuesday,2,April,2018,Direct,OTHERS,United States of America,North Carolina,0,3,cards
+1421,MOBILE,3,51,Tuesday,0,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,MOBILE,26,153,Tuesday,1,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,2,cards
+1421,MOBILE,15,139,Tuesday,0,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,MOBILE,20,98,Tuesday,2,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,MOBILE,7,105,Tuesday,0,April,2018,Direct,OTHERS,United States of America,Texas,0,2,cards
+1421,MOBILE,15,198,Tuesday,0,April,2018,Direct,OTHERS,United States of America,Virginia,0,2,cards
+1421,MOBILE,4,57,Tuesday,1,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,MOBILE,3,75,Tuesday,1,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,MOBILE,11,146,Tuesday,4,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,MOBILE,4,62,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Colorado,0,1,cards
+1421,MOBILE,2,62,Tuesday,4,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,MOBILE,32,306,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Illinois,0,4,cards
+1421,MOBILE,3,52,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,MOBILE,2,91,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,MOBILE,7,125,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Kentucky,0,2,cards
+1421,MOBILE,10,149,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Missouri,0,1,cards
+1421,MOBILE,3,68,Tuesday,3,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,5,95,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,MOBILE,11,87,Tuesday,5,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,MOBILE,19,188,Tuesday,4,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,MOBILE,35,562,Tuesday,4,April,2018,Direct,OTHERS,United States of America,Texas,0,6,cards
+1421,MOBILE,3,64,Tuesday,3,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,MOBILE,13,102,Tuesday,4,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,MOBILE,4,63,Tuesday,4,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,MOBILE,17,132,Tuesday,7,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,3,60,Tuesday,7,April,2018,Direct,OTHERS,United States of America,Hawaii,0,1,cards
+1421,MOBILE,4,60,Tuesday,6,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,MOBILE,9,58,Tuesday,8,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,27,278,Tuesday,7,April,2018,Direct,OTHERS,United States of America,Oregon,0,1,cards
+1421,MOBILE,3,68,Tuesday,6,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,MOBILE,3,53,Tuesday,9,April,2018,Direct,OTHERS,United States of America,Kentucky,0,1,cards
+1421,MOBILE,7,152,Tuesday,10,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,3,60,Tuesday,11,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,MOBILE,8,207,Tuesday,12,April,2018,Direct,OTHERS,United States of America,Arizona,0,2,cards
+1421,MOBILE,4,72,Tuesday,13,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,9,232,Tuesday,13,April,2018,Direct,OTHERS,United States of America,Florida,0,2,cards
+1421,MOBILE,14,152,Tuesday,12,April,2018,Direct,OTHERS,United States of America,Illinois,0,2,cards
+1421,MOBILE,3,59,Tuesday,13,April,2018,Direct,OTHERS,United States of America,Kentucky,0,1,cards
+1421,MOBILE,9,66,Tuesday,14,April,2018,Direct,OTHERS,United States of America,Maine,0,1,cards
+1421,MOBILE,2,95,Tuesday,14,April,2018,Direct,OTHERS,United States of America,Missouri,0,1,cards
+1421,MOBILE,28,191,Tuesday,13,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,7,77,Tuesday,14,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,MOBILE,3,102,Tuesday,14,April,2018,Direct,OTHERS,United States of America,South Dakota,0,1,cards
+1421,MOBILE,7,141,Tuesday,12,April,2018,Direct,OTHERS,United States of America,Texas,0,2,cards
+1421,MOBILE,9,51,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,MOBILE,5,144,Tuesday,17,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,8,113,Tuesday,16,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,MOBILE,5,53,Tuesday,15,April,2018,Direct,OTHERS,United States of America,Kentucky,0,1,cards
+1421,MOBILE,11,104,Tuesday,15,April,2018,Direct,OTHERS,United States of America,Maryland,0,2,cards
+1421,MOBILE,16,229,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Minnesota,0,2,cards
+1421,MOBILE,4,99,Tuesday,15,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,10,247,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Ohio,0,2,cards
+1421,MOBILE,13,80,Tuesday,17,April,2018,Direct,OTHERS,United States of America,South Carolina,0,1,cards
+1421,MOBILE,5,56,Tuesday,16,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,4,52,Tuesday,16,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,MOBILE,3,55,Tuesday,17,April,2018,Direct,OTHERS,United States of America,West Virginia,0,1,cards
+1421,MOBILE,6,85,Tuesday,17,April,2018,Direct,OTHERS,United States of America,Wisconsin,0,1,cards
+1421,MOBILE,10,121,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,MOBILE,5,69,Tuesday,19,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,6,65,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,11,148,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Illinois,0,2,cards
+1421,MOBILE,12,262,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Kentucky,0,3,cards
+1421,MOBILE,6,53,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Maine,0,1,cards
+1421,MOBILE,10,51,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,MOBILE,11,64,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Nevada,0,1,cards
+1421,MOBILE,10,142,Tuesday,18,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,4,98,Tuesday,18,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,MOBILE,3,81,Tuesday,19,April,2018,Direct,OTHERS,United States of America,Utah,0,1,cards
+1421,MOBILE,9,51,Tuesday,22,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,29,214,Tuesday,21,April,2018,Direct,OTHERS,United States of America,Florida,0,2,cards
+1421,MOBILE,9,66,Tuesday,21,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,MOBILE,5,110,Tuesday,22,April,2018,Direct,OTHERS,United States of America,Louisiana,0,1,cards
+1421,MOBILE,18,80,Tuesday,21,April,2018,Direct,OTHERS,United States of America,Maryland,0,1,cards
+1421,MOBILE,4,52,Tuesday,21,April,2018,Direct,OTHERS,United States of America,Minnesota,0,1,cards
+1421,MOBILE,2,59,Tuesday,22,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,4,51,Tuesday,22,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,MOBILE,4,55,Tuesday,23,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,MOBILE,5,77,Tuesday,23,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,5,123,Tuesday,22,April,2018,Direct,OTHERS,United States of America,Virginia,0,2,cards
+1421,MOBILE,2,57,Tuesday,14,April,2018,ORGANIC,Facebook,United States of America,Georgia,0,1,cards
+1421,MOBILE,8,171,Tuesday,17,April,2018,ORGANIC,Facebook,United States of America,Connecticut,0,1,cards
+1421,MOBILE,3,52,Tuesday,15,April,2018,ORGANIC,Facebook,United States of America,North Carolina,0,1,cards
+1421,MOBILE,3,112,Tuesday,21,April,2018,ORGANIC,Facebook,United States of America,Kentucky,0,1,cards
+1421,MOBILE,7,56,Tuesday,2,April,2018,ORGANIC,Google,United States of America,Arizona,0,1,cards
+1421,MOBILE,3,51,Tuesday,2,April,2018,ORGANIC,Google,United States of America,Texas,0,1,cards
+1421,MOBILE,8,59,Tuesday,3,April,2018,ORGANIC,Google,United States of America,Louisiana,0,1,cards
+1421,MOBILE,3,64,Tuesday,10,April,2018,ORGANIC,Google,United States of America,Florida,0,1,cards
+1421,MOBILE,2,51,Tuesday,17,April,2018,ORGANIC,Google,United States of America,Connecticut,0,1,cards
+1421,MOBILE,5,60,Tuesday,15,April,2018,ORGANIC,Google,United States of America,Kansas,0,1,cards
+1421,MOBILE,8,59,Tuesday,16,April,2018,ORGANIC,Google,United States of America,Utah,0,1,cards
+1421,MOBILE,7,64,Tuesday,18,April,2018,ORGANIC,Google,United States of America,Colorado,0,1,cards
+1421,MOBILE,4,51,Tuesday,19,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,cards
+1421,MOBILE,12,72,Tuesday,18,April,2018,ORGANIC,Google,United States of America,Kansas,0,1,cards
+1421,MOBILE,1,140,Tuesday,20,April,2018,ORGANIC,Google,United States of America,Texas,0,1,cards
+1421,MOBILE,4,70,Tuesday,23,April,2018,ORGANIC,Google,United States of America,Arizona,0,1,cards
+1421,MOBILE,3,85,Tuesday,23,April,2018,ORGANIC,Google,United States of America,Texas,0,1,cards
+1421,MOBILE,4,57,Tuesday,21,April,2018,ORGANIC,Instagram,United States of America,Indiana,0,1,cards
+1421,MOBILE,5,63,Tuesday,1,April,2018,ORGANIC,Yahoo,United States of America,Washington,0,1,cards
+1421,MOBILE,2,56,Tuesday,15,April,2018,ORGANIC,Yahoo,United States of America,New Mexico,0,1,cards
+1421,MOBILE,6,148,Wednesday,12,April,2018,Direct,OTHERS,Australia,South Australia,0,1,cards
+1421,MOBILE,5,105,Wednesday,15,April,2018,Direct,OTHERS,Bahamas,Harbour Island,0,1,cards
+1421,MOBILE,1,150,Wednesday,3,April,2018,Direct,OTHERS,Canada,Nova Scotia,0,1,cards
+1421,MOBILE,5,97,Wednesday,16,April,2018,Direct,OTHERS,Canada,New Brunswick,0,1,cards
+1421,MOBILE,8,138,Wednesday,18,April,2018,Direct,OTHERS,Canada,Northwest Territories,0,1,cards
+1421,MOBILE,3,74,Wednesday,2,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,MOBILE,3,70,Wednesday,0,April,2018,Direct,OTHERS,United States of America,Mississippi,0,1,cards
+1421,MOBILE,6,117,Wednesday,2,April,2018,Direct,OTHERS,United States of America,Missouri,0,1,cards
+1421,MOBILE,3,87,Wednesday,1,April,2018,Direct,OTHERS,United States of America,North Carolina,0,1,cards
+1421,MOBILE,6,58,Wednesday,1,April,2018,Direct,OTHERS,United States of America,Pennsylvania,0,1,cards
+1421,MOBILE,3,72,Wednesday,1,April,2018,Direct,OTHERS,United States of America,Washington,0,1,cards
+1421,MOBILE,6,178,Wednesday,5,April,2018,Direct,OTHERS,United States of America,California,0,3,cards
+1421,MOBILE,13,133,Wednesday,3,April,2018,Direct,OTHERS,United States of America,Louisiana,0,2,cards
+1421,MOBILE,2,55,Wednesday,4,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,7,102,Wednesday,3,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,MOBILE,12,204,Wednesday,4,April,2018,Direct,OTHERS,United States of America,Virginia,0,2,cards
+1421,MOBILE,6,85,Wednesday,6,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,3,65,Wednesday,7,April,2018,Direct,OTHERS,United States of America,Tennessee,0,1,cards
+1421,MOBILE,5,59,Wednesday,9,April,2018,Direct,OTHERS,United States of America,Arizona,0,1,cards
+1421,MOBILE,3,65,Wednesday,11,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,10,75,Wednesday,14,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,MOBILE,6,52,Wednesday,14,April,2018,Direct,OTHERS,United States of America,Kentucky,0,1,cards
+1421,MOBILE,7,76,Wednesday,14,April,2018,Direct,OTHERS,United States of America,Missouri,0,1,cards
+1421,MOBILE,19,88,Wednesday,14,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,13,192,Wednesday,13,April,2018,Direct,OTHERS,United States of America,Texas,0,2,cards
+1421,MOBILE,2,52,Wednesday,14,April,2018,Direct,OTHERS,United States of America,Virginia,0,1,cards
+1421,MOBILE,2,65,Wednesday,15,April,2018,Direct,OTHERS,United States of America,Alabama,0,1,cards
+1421,MOBILE,6,64,Wednesday,15,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,MOBILE,5,54,Wednesday,15,April,2018,Direct,OTHERS,United States of America,California,0,1,cards
+1421,MOBILE,11,113,Wednesday,15,April,2018,Direct,OTHERS,United States of America,Georgia,0,1,cards
+1421,MOBILE,8,55,Wednesday,16,April,2018,Direct,OTHERS,United States of America,Hawaii,0,1,cards
+1421,MOBILE,10,65,Wednesday,17,April,2018,Direct,OTHERS,United States of America,Indiana,0,1,cards
+1421,MOBILE,20,126,Wednesday,16,April,2018,Direct,OTHERS,United States of America,Massachusetts,0,1,cards
+1421,MOBILE,13,203,Wednesday,15,April,2018,Direct,OTHERS,United States of America,Nebraska,0,1,cards
+1421,MOBILE,6,74,Wednesday,17,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,9,54,Wednesday,15,April,2018,Direct,OTHERS,United States of America,Ohio,0,1,cards
+1421,MOBILE,13,126,Wednesday,19,April,2018,Direct,OTHERS,United States of America,Alaska,0,1,cards
+1421,MOBILE,2,92,Wednesday,20,April,2018,Direct,OTHERS,United States of America,Arkansas,0,1,cards
+1421,MOBILE,11,172,Wednesday,18,April,2018,Direct,OTHERS,United States of America,California,0,2,cards
+1421,MOBILE,2,153,Wednesday,18,April,2018,Direct,OTHERS,United States of America,Idaho,0,1,cards
+1421,MOBILE,12,163,Wednesday,18,April,2018,Direct,OTHERS,United States of America,Missouri,0,2,cards
+1421,MOBILE,3,64,Wednesday,19,April,2018,Direct,OTHERS,United States of America,New York,0,1,cards
+1421,MOBILE,9,179,Wednesday,18,April,2018,Direct,OTHERS,United States of America,Texas,0,2,cards
+1421,MOBILE,8,56,Wednesday,21,April,2018,Direct,OTHERS,United States of America,District of Columbia,0,1,cards
+1421,MOBILE,12,58,Wednesday,22,April,2018,Direct,OTHERS,United States of America,Florida,0,1,cards
+1421,MOBILE,4,58,Wednesday,21,April,2018,Direct,OTHERS,United States of America,Kansas,0,1,cards
+1421,MOBILE,8,195,Wednesday,22,April,2018,Direct,OTHERS,United States of America,Michigan,0,1,cards
+1421,MOBILE,5,55,Wednesday,23,April,2018,Direct,OTHERS,United States of America,New Jersey,0,1,cards
+1421,MOBILE,8,61,Wednesday,21,April,2018,Direct,OTHERS,United States of America,Texas,0,1,cards
+1421,MOBILE,1,130,Wednesday,12,April,2018,ORGANIC,Bing,United States of America,New York,0,1,cards
+1421,MOBILE,15,117,Wednesday,1,April,2018,ORGANIC,Facebook,Australia,New South Wales,0,1,cards
+1421,MOBILE,6,56,Wednesday,3,April,2018,ORGANIC,Facebook,United States of America,North Carolina,0,1,cards
+1421,MOBILE,10,67,Wednesday,17,April,2018,ORGANIC,Facebook,United States of America,New York,0,1,cards
+1421,MOBILE,6,52,Wednesday,18,April,2018,ORGANIC,Facebook,United States of America,Alabama,0,1,cards
+1421,MOBILE,1,55,Wednesday,4,April,2018,ORGANIC,Google,United States of America,Wisconsin,0,1,cards
+1421,MOBILE,10,58,Wednesday,12,April,2018,ORGANIC,Google,United States of America,South Carolina,0,1,cards
+1421,MOBILE,5,63,Wednesday,16,April,2018,ORGANIC,Google,United States of America,Kentucky,0,1,cards
+1421,MOBILE,2,60,Wednesday,17,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,cards
+1421,MOBILE,4,91,Wednesday,15,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,cards
+1421,MOBILE,5,70,Wednesday,18,April,2018,ORGANIC,Google,United States of America,Wisconsin,0,1,cards
+1421,MOBILE,4,59,Wednesday,22,April,2018,ORGANIC,Google,United States of America,California,0,1,cards
+1421,MOBILE,2,61,Wednesday,0,April,2018,ORGANIC,Yahoo,United States of America,California,0,1,cards

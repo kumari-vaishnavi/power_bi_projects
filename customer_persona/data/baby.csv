@@ -1,0 +1,689 @@
+businessAssociateId,device,orderCount,price,day,hour,month,year,clickSource,ppcType,countryName,regionName,userType,userCount,industry
+1320,DESKTOP,2,160,Friday,19,April,2018,Direct,Others,Barbados,Saint Michael,0,1,baby
+1320,DESKTOP,2,239,Friday,13,April,2018,Direct,Others,Panama,Colon,0,1,baby
+1320,DESKTOP,1,202,Friday,0,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,DESKTOP,2,130,Friday,2,April,2018,Direct,Others,United States of America,Minnesota,0,1,baby
+1320,DESKTOP,2,166,Friday,0,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,DESKTOP,2,1650,Friday,0,April,2018,Direct,Others,United States of America,Oregon,0,1,baby
+1320,DESKTOP,4,1397,Friday,1,April,2018,Direct,Others,United States of America,South Carolina,0,1,baby
+1320,DESKTOP,2,125,Friday,3,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,DESKTOP,4,109,Friday,14,April,2018,Direct,Others,United States of America,Michigan,0,1,baby
+1320,DESKTOP,2,93,Friday,12,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,DESKTOP,2,307,Friday,13,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1320,DESKTOP,1,1099,Friday,12,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,DESKTOP,2,356,Friday,17,April,2018,Direct,Others,United States of America,Massachusetts,0,1,baby
+1320,DESKTOP,1,192,Friday,16,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,DESKTOP,10,193,Friday,19,April,2018,Direct,Others,United States of America,California,0,3,baby
+1320,DESKTOP,2,3500,Friday,18,April,2018,Direct,Others,United States of America,Florida,0,2,baby
+1320,DESKTOP,6,188,Friday,19,April,2018,Direct,Others,United States of America,Maryland,0,1,baby
+1320,DESKTOP,4,490,Friday,20,April,2018,Direct,Others,United States of America,North Dakota,0,1,baby
+1320,DESKTOP,4,265,Friday,18,April,2018,Direct,Others,United States of America,Texas,0,2,baby
+1320,DESKTOP,1,60,Friday,21,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,2,126,Friday,21,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,DESKTOP,2,238,Friday,22,April,2018,Direct,Others,United States of America,Oregon,0,1,baby
+1320,DESKTOP,1,1332,Friday,21,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,DESKTOP,1,900,Friday,15,April,2018,ORGANIC,Bing,United States of America,California,0,1,baby
+1320,DESKTOP,1,211,Friday,20,April,2018,ORGANIC,Bing,United States of America,North Dakota,0,1,baby
+1320,DESKTOP,1,133,Friday,23,April,2018,ORGANIC,Bing,United States of America,Minnesota,0,1,baby
+1320,DESKTOP,1,133,Friday,9,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,baby
+1320,DESKTOP,2,68,Friday,17,April,2018,ORGANIC,Google,United States of America,Colorado,0,1,baby
+1320,DESKTOP,1,66,Friday,17,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,baby
+1320,DESKTOP,1,201,Friday,15,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,baby
+1320,DESKTOP,2,250,Friday,18,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,baby
+1320,DESKTOP,2,130,Friday,19,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1320,DESKTOP,2,130,Friday,21,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,baby
+1320,DESKTOP,1,5044,Friday,3,April,2018,ORGANIC,Yahoo,United States of America,Virginia,0,1,baby
+1320,DESKTOP,1,777,Friday,23,April,2018,ORGANIC,Yahoo,United States of America,California,0,1,baby
+1320,DESKTOP,1,200,Friday,14,April,2018,PPC,Google,United States of America,Connecticut,0,1,baby
+1320,DESKTOP,3,1443,Friday,17,April,2018,PPC,Google,United States of America,Florida,0,1,baby
+1320,DESKTOP,21,379,Friday,20,April,2018,PPC,Google,United States of America,Oregon,0,1,baby
+1320,DESKTOP,16,114,Monday,21,April,2018,Direct,Others,Brazil,Sao Paulo,0,1,baby
+1320,DESKTOP,1,900,Monday,17,April,2018,Direct,Others,Canada,Ontario,0,1,baby
+1320,DESKTOP,4,178,Monday,15,April,2018,Direct,Others,Finland,Pohjois-Savo,0,1,baby
+1320,DESKTOP,3,110,Monday,21,April,2018,Direct,Others,Hungary,Budapest,0,1,baby
+1320,DESKTOP,6,218,Monday,0,April,2018,Direct,Others,United States of America,Colorado,0,1,baby
+1320,DESKTOP,2,250,Monday,2,April,2018,Direct,Others,United States of America,Indiana,0,1,baby
+1320,DESKTOP,2,377,Monday,2,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,DESKTOP,2,137,Monday,0,April,2018,Direct,Others,United States of America,Wisconsin,0,1,baby
+1320,DESKTOP,2,150,Monday,13,April,2018,Direct,Others,United States of America,Georgia,0,1,baby
+1320,DESKTOP,3,2258,Monday,13,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,DESKTOP,16,108,Monday,13,April,2018,Direct,Others,United States of America,Massachusetts,0,1,baby
+1320,DESKTOP,1,190,Monday,14,April,2018,Direct,Others,United States of America,Minnesota,0,1,baby
+1320,DESKTOP,1,55,Monday,13,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,DESKTOP,1,310,Monday,12,April,2018,Direct,Others,United States of America,Utah,0,1,baby
+1320,DESKTOP,2,177,Monday,14,April,2018,Direct,Others,United States of America,Wisconsin,0,1,baby
+1320,DESKTOP,2,80,Monday,15,April,2018,Direct,Others,United States of America,Alabama,0,1,baby
+1320,DESKTOP,2,65,Monday,16,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,2,60,Monday,17,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,DESKTOP,2,113,Monday,17,April,2018,Direct,Others,United States of America,Michigan,0,1,baby
+1320,DESKTOP,1,204,Monday,17,April,2018,Direct,Others,United States of America,New Jersey,0,1,baby
+1320,DESKTOP,1,795,Monday,16,April,2018,Direct,Others,United States of America,Ohio,0,1,baby
+1320,DESKTOP,1,197,Monday,17,April,2018,Direct,Others,United States of America,South Dakota,0,1,baby
+1320,DESKTOP,2,125,Monday,17,April,2018,Direct,Others,United States of America,Virginia,0,1,baby
+1320,DESKTOP,2,128,Monday,16,April,2018,Direct,Others,United States of America,Wisconsin,0,1,baby
+1320,DESKTOP,4,457,Monday,20,April,2018,Direct,Others,United States of America,California,0,2,baby
+1320,DESKTOP,3,355,Monday,18,April,2018,Direct,Others,United States of America,Colorado,0,2,baby
+1320,DESKTOP,5,119,Monday,20,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,DESKTOP,6,187,Monday,19,April,2018,Direct,Others,United States of America,Indiana,0,1,baby
+1320,DESKTOP,4,138,Monday,19,April,2018,Direct,Others,United States of America,New Jersey,0,2,baby
+1320,DESKTOP,11,174,Monday,18,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1320,DESKTOP,6,2122,Monday,18,April,2018,Direct,Others,United States of America,Texas,0,2,baby
+1320,DESKTOP,1,65,Monday,19,April,2018,Direct,Others,United States of America,Virginia,0,1,baby
+1320,DESKTOP,2,534,Monday,20,April,2018,Direct,Others,United States of America,Wisconsin,0,2,baby
+1320,DESKTOP,4,202,Monday,21,April,2018,Direct,Others,United States of America,Minnesota,0,1,baby
+1320,DESKTOP,1,324,Monday,21,April,2018,Direct,Others,United States of America,Oregon,0,1,baby
+1320,DESKTOP,2,56,Monday,19,April,2018,ORGANIC,Bing,United States of America,Oregon,0,1,baby
+1320,DESKTOP,1,297,Monday,19,April,2018,ORGANIC,Bing,United States of America,Utah,0,1,baby
+1320,DESKTOP,1,1068,Monday,21,April,2018,ORGANIC,Bing,United States of America,Florida,0,1,baby
+1320,DESKTOP,1,186,Monday,22,April,2018,ORGANIC,Bing,United States of America,Louisiana,0,1,baby
+1320,DESKTOP,4,129,Monday,1,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,baby
+1320,DESKTOP,1,188,Monday,6,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,DESKTOP,2,1400,Monday,14,April,2018,ORGANIC,Google,United States of America,Florida,0,1,baby
+1320,DESKTOP,1,795,Monday,13,April,2018,ORGANIC,Google,United States of America,Virginia,0,1,baby
+1320,DESKTOP,1,133,Monday,17,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,DESKTOP,1,135,Monday,15,April,2018,ORGANIC,Google,United States of America,Kansas,0,1,baby
+1320,DESKTOP,2,228,Monday,15,April,2018,ORGANIC,Google,United States of America,North Carolina,0,1,baby
+1320,DESKTOP,2,368,Monday,15,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,baby
+1320,DESKTOP,17,476,Monday,15,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,DESKTOP,3,77,Monday,18,April,2018,ORGANIC,Google,United States of America,Arizona,0,1,baby
+1320,DESKTOP,2,630,Monday,18,April,2018,ORGANIC,Google,United States of America,Missouri,0,1,baby
+1320,DESKTOP,2,209,Monday,19,April,2018,ORGANIC,Google,United States of America,Oregon,0,1,baby
+1320,DESKTOP,2,76,Monday,22,April,2018,PPC,Google,United States of America,Florida,0,1,baby
+1320,DESKTOP,2,901,Saturday,17,April,2018,Direct,Others,Russian Federation,Leningradskaya oblast',0,1,baby
+1320,DESKTOP,2,70,Saturday,2,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,DESKTOP,2,220,Saturday,8,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,1,165,Saturday,11,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,DESKTOP,1,60,Saturday,14,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,DESKTOP,2,220,Saturday,14,April,2018,Direct,Others,United States of America,Ohio,0,1,baby
+1320,DESKTOP,2,125,Saturday,12,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1320,DESKTOP,2,82,Saturday,16,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,2,177,Saturday,17,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,DESKTOP,2,82,Saturday,17,April,2018,Direct,Others,United States of America,New Jersey,0,1,baby
+1320,DESKTOP,1,150,Saturday,18,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,DESKTOP,3,174,Saturday,20,April,2018,Direct,Others,United States of America,Massachusetts,0,2,baby
+1320,DESKTOP,1,133,Saturday,18,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,DESKTOP,10,155,Saturday,18,April,2018,Direct,Others,United States of America,Utah,0,1,baby
+1320,DESKTOP,2,82,Saturday,18,April,2018,Direct,Others,United States of America,Virginia,0,1,baby
+1320,DESKTOP,1,242,Saturday,21,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,4,171,Saturday,21,April,2018,Direct,Others,United States of America,Minnesota,0,1,baby
+1320,DESKTOP,2,1414,Saturday,22,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1320,DESKTOP,1,900,Saturday,22,April,2018,ORGANIC,Bing,United States of America,Michigan,0,1,baby
+1320,DESKTOP,2,1168,Saturday,2,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,DESKTOP,1,795,Saturday,1,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,baby
+1320,DESKTOP,1,257,Saturday,0,April,2018,ORGANIC,Google,United States of America,Oregon,0,1,baby
+1320,DESKTOP,2,68,Saturday,5,April,2018,ORGANIC,Google,United States of America,Missouri,0,1,baby
+1320,DESKTOP,2,153,Saturday,14,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,DESKTOP,1,180,Saturday,16,April,2018,ORGANIC,Google,United States of America,Florida,0,1,baby
+1320,DESKTOP,1,133,Saturday,22,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,DESKTOP,2,130,Sunday,4,April,2018,Direct,Others,Canada,Ontario,0,1,baby
+1320,DESKTOP,1,165,Sunday,1,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,2,70,Sunday,2,April,2018,Direct,Others,United States of America,New Mexico,0,1,baby
+1320,DESKTOP,2,182,Sunday,2,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,DESKTOP,1,619,Sunday,3,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,DESKTOP,1,3487,Sunday,9,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,DESKTOP,2,110,Sunday,13,April,2018,Direct,Others,United States of America,Michigan,0,1,baby
+1320,DESKTOP,2,59,Sunday,13,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,DESKTOP,1,1515,Sunday,17,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,4,140,Sunday,15,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,DESKTOP,1,133,Sunday,16,April,2018,Direct,Others,United States of America,Georgia,0,1,baby
+1320,DESKTOP,1,66,Sunday,16,April,2018,Direct,Others,United States of America,Oregon,0,1,baby
+1320,DESKTOP,2,335,Sunday,16,April,2018,Direct,Others,United States of America,Rhode Island,0,1,baby
+1320,DESKTOP,2,137,Sunday,20,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,4,242,Sunday,19,April,2018,Direct,Others,United States of America,Maine,0,2,baby
+1320,DESKTOP,1,133,Sunday,19,April,2018,Direct,Others,United States of America,New Jersey,0,1,baby
+1320,DESKTOP,1,133,Sunday,19,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,DESKTOP,1,76,Sunday,18,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1320,DESKTOP,2,253,Sunday,18,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,DESKTOP,2,82,Sunday,23,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,DESKTOP,1,133,Sunday,17,April,2018,ORGANIC,Bing,United States of America,Virginia,0,1,baby
+1320,DESKTOP,1,900,Sunday,12,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,baby
+1320,DESKTOP,1,76,Sunday,15,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,baby
+1320,DESKTOP,2,109,Sunday,21,April,2018,ORGANIC,Yahoo,United States of America,New York,0,1,baby
+1320,DESKTOP,2,63,Sunday,1,April,2018,PPC,Google,United States of America,North Carolina,0,1,baby
+1320,DESKTOP,1,186,Sunday,23,April,2018,PPC,Google,United States of America,Ohio,0,1,baby
+1320,DESKTOP,1,3409,Thursday,8,April,2018,Direct,Others,"Korea, Republic of",Gyeonggi-do,0,1,baby
+1320,DESKTOP,1,1803,Thursday,0,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,DESKTOP,1,83,Thursday,11,April,2018,Direct,Others,United States of America,New Jersey,0,1,baby
+1320,DESKTOP,2,150,Thursday,14,April,2018,Direct,Others,United States of America,Connecticut,0,1,baby
+1320,DESKTOP,2,89,Thursday,12,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,DESKTOP,4,4153,Thursday,13,April,2018,Direct,Others,United States of America,Minnesota,0,2,baby
+1320,DESKTOP,4,51,Thursday,14,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,DESKTOP,2,69,Thursday,14,April,2018,Direct,Others,United States of America,Washington,0,1,baby
+1320,DESKTOP,17,1294,Thursday,14,April,2018,Direct,Others,United States of America,Wisconsin,0,1,baby
+1320,DESKTOP,2,130,Thursday,17,April,2018,Direct,Others,United States of America,California,0,2,baby
+1320,DESKTOP,2,82,Thursday,16,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,DESKTOP,1,153,Thursday,15,April,2018,Direct,Others,United States of America,Iowa,0,1,baby
+1320,DESKTOP,1,100,Thursday,16,April,2018,Direct,Others,United States of America,Massachusetts,0,1,baby
+1320,DESKTOP,2,316,Thursday,16,April,2018,Direct,Others,United States of America,New Mexico,0,1,baby
+1320,DESKTOP,1,66,Thursday,16,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1320,DESKTOP,1,409,Thursday,16,April,2018,Direct,Others,United States of America,Oregon,0,1,baby
+1320,DESKTOP,2,143,Thursday,17,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1320,DESKTOP,2,116,Thursday,17,April,2018,Direct,Others,United States of America,Washington,0,1,baby
+1320,DESKTOP,2,137,Thursday,20,April,2018,Direct,Others,United States of America,Arizona,0,1,baby
+1320,DESKTOP,1,88,Thursday,18,April,2018,Direct,Others,United States of America,Connecticut,0,1,baby
+1320,DESKTOP,2,488,Thursday,20,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,DESKTOP,1,305,Thursday,20,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,DESKTOP,1,1019,Thursday,19,April,2018,Direct,Others,United States of America,Indiana,0,1,baby
+1320,DESKTOP,2,130,Thursday,20,April,2018,Direct,Others,United States of America,Iowa,0,1,baby
+1320,DESKTOP,1,133,Thursday,19,April,2018,Direct,Others,United States of America,Michigan,0,1,baby
+1320,DESKTOP,1,136,Thursday,19,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,DESKTOP,2,159,Thursday,19,April,2018,Direct,Others,United States of America,North Dakota,0,1,baby
+1320,DESKTOP,1,852,Thursday,19,April,2018,Direct,Others,United States of America,Utah,0,1,baby
+1320,DESKTOP,2,514,Thursday,19,April,2018,Direct,Others,United States of America,Washington,0,1,baby
+1320,DESKTOP,2,90,Thursday,21,April,2018,Direct,Others,United States of America,Arizona,0,1,baby
+1320,DESKTOP,2,93,Thursday,21,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,6,79,Thursday,15,April,2018,ORGANIC,Bing,United States of America,Kansas,0,1,baby
+1320,DESKTOP,2,607,Thursday,15,April,2018,ORGANIC,Bing,United States of America,Louisiana,0,1,baby
+1320,DESKTOP,7,107,Thursday,18,April,2018,ORGANIC,Bing,United States of America,New Hampshire,0,1,baby
+1320,DESKTOP,13,265,Thursday,16,April,2018,ORGANIC,Google,Canada,Manitoba,0,1,baby
+1320,DESKTOP,1,133,Thursday,2,April,2018,ORGANIC,Google,United States of America,Hawaii,0,1,baby
+1320,DESKTOP,1,565,Thursday,14,April,2018,ORGANIC,Google,United States of America,Minnesota,0,1,baby
+1320,DESKTOP,1,582,Thursday,17,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,DESKTOP,2,71,Thursday,15,April,2018,ORGANIC,Google,United States of America,Michigan,0,1,baby
+1320,DESKTOP,1,275,Thursday,16,April,2018,ORGANIC,Google,United States of America,New York,0,1,baby
+1320,DESKTOP,2,130,Thursday,17,April,2018,ORGANIC,Google,United States of America,North Dakota,0,1,baby
+1320,DESKTOP,1,192,Thursday,15,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,baby
+1320,DESKTOP,2,137,Thursday,16,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,DESKTOP,4,96,Thursday,19,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,baby
+1320,DESKTOP,1,76,Thursday,19,April,2018,ORGANIC,Google,United States of America,Minnesota,0,1,baby
+1320,DESKTOP,2,633,Thursday,18,April,2018,ORGANIC,Google,United States of America,Missouri,0,1,baby
+1320,DESKTOP,2,60,Thursday,19,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,baby
+1320,DESKTOP,1,255,Thursday,19,April,2018,ORGANIC,Google,United States of America,South Carolina,0,1,baby
+1320,DESKTOP,2,158,Thursday,19,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,DESKTOP,1,88,Thursday,0,April,2018,ORGANIC,Yahoo,United States of America,Alabama,0,1,baby
+1320,DESKTOP,2,215,Thursday,15,April,2018,ORGANIC,Yahoo,United States of America,Virginia,0,1,baby
+1320,DESKTOP,2,137,Thursday,18,April,2018,ORGANIC,Yahoo,United States of America,North Dakota,0,1,baby
+1320,DESKTOP,3,197,Thursday,23,April,2018,ORGANIC,Yahoo,United States of America,Wyoming,0,1,baby
+1320,DESKTOP,2,82,Thursday,11,April,2018,PPC,Google,United States of America,Connecticut,0,1,baby
+1320,DESKTOP,1,60,Thursday,16,April,2018,PPC,Google,United States of America,California,0,1,baby
+1320,DESKTOP,2,130,Tuesday,22,April,2018,Direct,Others,Canada,British Columbia,0,1,baby
+1320,DESKTOP,2,307,Tuesday,13,April,2018,Direct,Others,China,Zhejiang,0,1,baby
+1320,DESKTOP,2,307,Tuesday,15,April,2018,Direct,Others,China,Zhejiang,0,1,baby
+1320,DESKTOP,3,347,Tuesday,12,April,2018,Direct,Others,Germany,Hessen,0,1,baby
+1320,DESKTOP,9,105,Tuesday,21,April,2018,Direct,Others,Mexico,Puebla,0,1,baby
+1320,DESKTOP,2,745,Tuesday,4,April,2018,Direct,Others,Sri Lanka,Southern Province,0,1,baby
+1320,DESKTOP,2,65,Tuesday,1,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,DESKTOP,1,259,Tuesday,13,April,2018,Direct,Others,United States of America,Alaska,0,1,baby
+1320,DESKTOP,1,255,Tuesday,13,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,DESKTOP,2,59,Tuesday,14,April,2018,Direct,Others,United States of America,Ohio,0,1,baby
+1320,DESKTOP,1,135,Tuesday,14,April,2018,Direct,Others,United States of America,Oklahoma,0,1,baby
+1320,DESKTOP,4,271,Tuesday,15,April,2018,Direct,Others,United States of America,Michigan,0,1,baby
+1320,DESKTOP,5,2984,Tuesday,17,April,2018,Direct,Others,United States of America,New York,0,2,baby
+1320,DESKTOP,1,133,Tuesday,17,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1320,DESKTOP,2,106,Tuesday,17,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,DESKTOP,4,296,Tuesday,18,April,2018,Direct,Others,United States of America,Arkansas,0,1,baby
+1320,DESKTOP,2,150,Tuesday,20,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,1,95,Tuesday,20,April,2018,Direct,Others,United States of America,Colorado,0,1,baby
+1320,DESKTOP,4,127,Tuesday,18,April,2018,Direct,Others,United States of America,Iowa,0,1,baby
+1320,DESKTOP,4,2734,Tuesday,20,April,2018,Direct,Others,United States of America,Minnesota,0,1,baby
+1320,DESKTOP,2,158,Tuesday,20,April,2018,Direct,Others,United States of America,Montana,0,1,baby
+1320,DESKTOP,2,67,Tuesday,19,April,2018,Direct,Others,United States of America,New Hampshire,0,1,baby
+1320,DESKTOP,1,269,Tuesday,20,April,2018,Direct,Others,United States of America,Tennessee,0,1,baby
+1320,DESKTOP,2,504,Tuesday,19,April,2018,Direct,Others,United States of America,Utah,0,1,baby
+1320,DESKTOP,2,118,Tuesday,21,April,2018,Direct,Others,United States of America,Arizona,0,1,baby
+1320,DESKTOP,1,74,Tuesday,22,April,2018,Direct,Others,United States of America,Colorado,0,1,baby
+1320,DESKTOP,2,60,Tuesday,21,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,DESKTOP,2,503,Tuesday,21,April,2018,Direct,Others,United States of America,Iowa,0,1,baby
+1320,DESKTOP,6,94,Tuesday,21,April,2018,Direct,Others,United States of America,Oregon,0,1,baby
+1320,DESKTOP,2,130,Tuesday,22,April,2018,Direct,Others,United States of America,Wisconsin,0,1,baby
+1320,DESKTOP,5,2058,Tuesday,17,April,2018,ORGANIC,Bing,United States of America,Missouri,0,1,baby
+1320,DESKTOP,1,141,Tuesday,17,April,2018,ORGANIC,Bing,United States of America,Texas,0,1,baby
+1320,DESKTOP,1,180,Tuesday,18,April,2018,ORGANIC,Bing,United States of America,Florida,0,1,baby
+1320,DESKTOP,1,900,Tuesday,2,April,2018,ORGANIC,Google,Canada,British Columbia,0,1,baby
+1320,DESKTOP,1,150,Tuesday,1,April,2018,ORGANIC,Google,Canada,Ontario,0,1,baby
+1320,DESKTOP,2,300,Tuesday,0,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,baby
+1320,DESKTOP,1,600,Tuesday,0,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1320,DESKTOP,3,94,Tuesday,11,April,2018,ORGANIC,Google,United States of America,Virginia,0,1,baby
+1320,DESKTOP,1,326,Tuesday,13,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1320,DESKTOP,2,69,Tuesday,13,April,2018,ORGANIC,Google,United States of America,New York,0,1,baby
+1320,DESKTOP,2,696,Tuesday,14,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,DESKTOP,2,68,Tuesday,23,April,2018,ORGANIC,Google,United States of America,North Carolina,0,1,baby
+1320,DESKTOP,8,207,Tuesday,19,April,2018,ORGANIC,Yahoo,United States of America,Iowa,0,1,baby
+1320,DESKTOP,1,3014,Tuesday,18,April,2018,ORGANIC,Yahoo,United States of America,Louisiana,0,1,baby
+1320,DESKTOP,6,108,Tuesday,15,April,2018,PPC,Google,United States of America,Nebraska,0,1,baby
+1320,DESKTOP,2,488,Wednesday,0,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,2,2861,Wednesday,2,April,2018,Direct,Others,United States of America,Georgia,0,2,baby
+1320,DESKTOP,4,83,Wednesday,2,April,2018,Direct,Others,United States of America,Maryland,0,1,baby
+1320,DESKTOP,2,385,Wednesday,0,April,2018,Direct,Others,United States of America,Missouri,0,1,baby
+1320,DESKTOP,1,795,Wednesday,2,April,2018,Direct,Others,United States of America,New Mexico,0,1,baby
+1320,DESKTOP,2,63,Wednesday,0,April,2018,Direct,Others,United States of America,Oklahoma,0,1,baby
+1320,DESKTOP,1,171,Wednesday,0,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1320,DESKTOP,3,97,Wednesday,1,April,2018,Direct,Others,United States of America,Virginia,0,1,baby
+1320,DESKTOP,2,150,Wednesday,5,April,2018,Direct,Others,United States of America,Arizona,0,1,baby
+1320,DESKTOP,2,127,Wednesday,11,April,2018,Direct,Others,United States of America,Rhode Island,0,1,baby
+1320,DESKTOP,10,406,Wednesday,14,April,2018,Direct,Others,United States of America,Florida,0,2,baby
+1320,DESKTOP,1,174,Wednesday,13,April,2018,Direct,Others,United States of America,Kansas,0,1,baby
+1320,DESKTOP,4,350,Wednesday,13,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,DESKTOP,3,283,Wednesday,17,April,2018,Direct,Others,United States of America,Arizona,0,2,baby
+1320,DESKTOP,2,158,Wednesday,15,April,2018,Direct,Others,United States of America,Arkansas,0,1,baby
+1320,DESKTOP,1,201,Wednesday,15,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,6,361,Wednesday,15,April,2018,Direct,Others,United States of America,Connecticut,0,2,baby
+1320,DESKTOP,2,130,Wednesday,15,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,DESKTOP,2,203,Wednesday,15,April,2018,Direct,Others,United States of America,Indiana,0,1,baby
+1320,DESKTOP,1,182,Wednesday,17,April,2018,Direct,Others,United States of America,Kansas,0,1,baby
+1320,DESKTOP,1,79,Wednesday,17,April,2018,Direct,Others,United States of America,Massachusetts,0,1,baby
+1320,DESKTOP,1,165,Wednesday,16,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1320,DESKTOP,2,62,Wednesday,20,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,DESKTOP,2,215,Wednesday,20,April,2018,Direct,Others,United States of America,Minnesota,0,1,baby
+1320,DESKTOP,1,159,Wednesday,19,April,2018,Direct,Others,United States of America,Nevada,0,1,baby
+1320,DESKTOP,8,517,Wednesday,18,April,2018,Direct,Others,United States of America,New York,0,2,baby
+1320,DESKTOP,2,59,Wednesday,19,April,2018,Direct,Others,United States of America,Ohio,0,1,baby
+1320,DESKTOP,2,110,Wednesday,19,April,2018,Direct,Others,United States of America,Oklahoma,0,1,baby
+1320,DESKTOP,6,226,Wednesday,20,April,2018,Direct,Others,United States of America,Oregon,0,1,baby
+1320,DESKTOP,1,133,Wednesday,20,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1320,DESKTOP,6,2557,Wednesday,19,April,2018,Direct,Others,United States of America,Washington,0,1,baby
+1320,DESKTOP,3,1713,Wednesday,19,April,2018,Direct,Others,United States of America,Wisconsin,0,2,baby
+1320,DESKTOP,1,161,Wednesday,22,April,2018,Direct,Others,United States of America,Iowa,0,1,baby
+1320,DESKTOP,2,80,Wednesday,21,April,2018,Direct,Others,United States of America,Montana,0,1,baby
+1320,DESKTOP,1,619,Wednesday,21,April,2018,Direct,Others,United States of America,North Dakota,0,1,baby
+1320,DESKTOP,6,108,Wednesday,2,April,2018,ORGANIC,Bing,United States of America,Florida,0,1,baby
+1320,DESKTOP,1,133,Wednesday,2,April,2018,ORGANIC,Bing,United States of America,Texas,0,1,baby
+1320,DESKTOP,2,204,Wednesday,14,April,2018,ORGANIC,Bing,United States of America,Maine,0,1,baby
+1320,DESKTOP,1,79,Wednesday,18,April,2018,ORGANIC,Bing,United States of America,Maine,0,1,baby
+1320,DESKTOP,1,71,Wednesday,14,April,2018,ORGANIC,Google,Germany,Nordrhein-Westfalen,0,1,baby
+1320,DESKTOP,2,57,Wednesday,4,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,DESKTOP,4,90,Wednesday,13,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1320,DESKTOP,2,370,Wednesday,14,April,2018,ORGANIC,Google,United States of America,New York,0,1,baby
+1320,DESKTOP,2,335,Wednesday,14,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,baby
+1320,DESKTOP,2,799,Wednesday,12,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,DESKTOP,2,356,Wednesday,17,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,baby
+1320,DESKTOP,1,192,Wednesday,17,April,2018,ORGANIC,Google,United States of America,Indiana,0,1,baby
+1320,DESKTOP,2,2245,Wednesday,15,April,2018,ORGANIC,Google,United States of America,New Hampshire,0,1,baby
+1320,DESKTOP,1,59,Wednesday,19,April,2018,ORGANIC,Google,United States of America,Arkansas,0,1,baby
+1320,DESKTOP,2,150,Wednesday,19,April,2018,ORGANIC,Google,United States of America,Kentucky,0,1,baby
+1320,DESKTOP,4,162,Wednesday,20,April,2018,ORGANIC,Google,United States of America,South Dakota,0,1,baby
+1320,DESKTOP,2,1691,Wednesday,19,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,DESKTOP,1,276,Wednesday,19,April,2018,ORGANIC,Google,United States of America,Wisconsin,0,1,baby
+1320,DESKTOP,2,66,Wednesday,14,April,2018,ORGANIC,Yahoo,United States of America,Massachusetts,0,1,baby
+1320,DESKTOP,1,105,Wednesday,15,April,2018,PPC,Google,United States of America,North Dakota,0,1,baby
+1320,DESKTOP,1,150,Wednesday,18,April,2018,PPC,Google,United States of America,Indiana,0,1,baby
+1320,DESKTOP,1,153,Wednesday,23,April,2018,PPC,Google,United States of America,Indiana,0,1,baby
+1320,DESKTOP,1,76,Wednesday,21,April,2018,PPC,Google,United States of America,Washington,0,1,baby
+1320,MOBILE,5,56,Friday,2,April,2018,Direct,Others,Canada,British Columbia,0,1,baby
+1320,MOBILE,1,153,Friday,18,April,2018,Direct,Others,Canada,British Columbia,0,1,baby
+1320,MOBILE,1,76,Friday,11,April,2018,Direct,Others,Japan,Tokyo,0,1,baby
+1320,MOBILE,1,153,Friday,12,April,2018,Direct,Others,Puerto Rico,Bayamon,0,1,baby
+1320,MOBILE,1,480,Friday,2,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,MOBILE,2,799,Friday,0,April,2018,Direct,Others,United States of America,Kentucky,0,1,baby
+1320,MOBILE,1,150,Friday,0,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,MOBILE,1,133,Friday,7,April,2018,Direct,Others,United States of America,Arizona,0,1,baby
+1320,MOBILE,2,110,Friday,11,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1320,MOBILE,2,75,Friday,15,April,2018,Direct,Others,United States of America,Kentucky,0,1,baby
+1320,MOBILE,2,257,Friday,15,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,MOBILE,2,150,Friday,20,April,2018,Direct,Others,United States of America,Connecticut,0,1,baby
+1320,MOBILE,2,118,Friday,20,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,MOBILE,1,650,Friday,19,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,MOBILE,1,1099,Friday,19,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,MOBILE,2,1384,Friday,22,April,2018,Direct,Others,United States of America,Nevada,0,1,baby
+1320,MOBILE,1,139,Friday,22,April,2018,Direct,Others,United States of America,Virginia,0,1,baby
+1320,MOBILE,1,900,Friday,1,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1320,MOBILE,1,1690,Friday,1,April,2018,ORGANIC,Google,United States of America,Washington,0,1,baby
+1320,MOBILE,1,128,Friday,15,April,2018,ORGANIC,Google,United States of America,Michigan,0,1,baby
+1320,MOBILE,2,77,Friday,18,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,MOBILE,8,92,Friday,19,April,2018,ORGANIC,Google,United States of America,Indiana,0,1,baby
+1320,MOBILE,2,130,Friday,20,April,2018,ORGANIC,Google,United States of America,Washington,0,1,baby
+1320,MOBILE,2,82,Friday,21,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,baby
+1320,MOBILE,2,92,Friday,23,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,MOBILE,2,600,Friday,19,April,2018,PPC,Others,United States of America,Oregon,0,1,baby
+1320,MOBILE,2,82,Friday,3,April,2018,PPC,Google,United States of America,California,0,1,baby
+1320,MOBILE,2,82,Friday,18,April,2018,PPC,Google,United States of America,Michigan,0,1,baby
+1320,MOBILE,2,118,Monday,16,April,2018,Direct,Others,United Arab Emirates,Abu Zaby,0,1,baby
+1320,MOBILE,2,105,Monday,2,April,2018,Direct,Others,United States of America,Alabama,0,1,baby
+1320,MOBILE,1,713,Monday,2,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,MOBILE,2,137,Monday,0,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,MOBILE,2,93,Monday,3,April,2018,Direct,Others,United States of America,Georgia,0,1,baby
+1320,MOBILE,2,82,Monday,14,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,MOBILE,2,130,Monday,12,April,2018,Direct,Others,United States of America,Michigan,0,1,baby
+1320,MOBILE,2,158,Monday,13,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,MOBILE,1,553,Monday,16,April,2018,Direct,Others,United States of America,Georgia,0,1,baby
+1320,MOBILE,6,53,Monday,20,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,MOBILE,2,134,Monday,18,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,MOBILE,1,76,Monday,20,April,2018,Direct,Others,United States of America,Massachusetts,0,1,baby
+1320,MOBILE,2,1366,Monday,19,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1320,MOBILE,2,59,Monday,23,April,2018,Direct,Others,United States of America,New Mexico,0,1,baby
+1320,MOBILE,2,150,Monday,23,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,MOBILE,2,130,Monday,23,April,2018,Direct,Others,United States of America,Virginia,0,1,baby
+1320,MOBILE,2,65,Monday,3,April,2018,ORGANIC,Bing,United States of America,Iowa,0,1,baby
+1320,MOBILE,2,158,Monday,16,April,2018,ORGANIC,Bing,United States of America,California,0,1,baby
+1320,MOBILE,2,54,Monday,1,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1320,MOBILE,1,602,Monday,2,April,2018,ORGANIC,Google,United States of America,South Dakota,0,1,baby
+1320,MOBILE,2,134,Monday,0,April,2018,ORGANIC,Google,United States of America,Washington,0,1,baby
+1320,MOBILE,2,66,Monday,12,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,baby
+1320,MOBILE,1,161,Monday,14,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,MOBILE,1,153,Monday,16,April,2018,ORGANIC,Google,United States of America,Arkansas,0,1,baby
+1320,MOBILE,3,1584,Monday,17,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,MOBILE,1,2012,Monday,16,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,MOBILE,2,59,Monday,20,April,2018,ORGANIC,Google,United States of America,Missouri,0,1,baby
+1320,MOBILE,2,413,Monday,20,April,2018,ORGANIC,Google,United States of America,Tennessee,0,1,baby
+1320,MOBILE,1,162,Monday,22,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,MOBILE,1,188,Monday,22,April,2018,ORGANIC,Google,United States of America,Colorado,0,1,baby
+1320,MOBILE,2,209,Monday,22,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,baby
+1320,MOBILE,1,77,Monday,23,April,2018,ORGANIC,Google,United States of America,Louisiana,0,1,baby
+1320,MOBILE,2,150,Monday,22,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,MOBILE,1,150,Saturday,13,April,2018,Direct,Others,Australia,Victoria,0,1,baby
+1320,MOBILE,2,1268,Saturday,4,April,2018,Direct,Others,Canada,British Columbia,0,1,baby
+1320,MOBILE,2,110,Saturday,2,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,MOBILE,8,128,Saturday,13,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,MOBILE,1,829,Saturday,12,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,MOBILE,2,60,Saturday,13,April,2018,Direct,Others,United States of America,Virginia,0,1,baby
+1320,MOBILE,2,103,Saturday,16,April,2018,Direct,Others,United States of America,Alaska,0,1,baby
+1320,MOBILE,2,134,Saturday,16,April,2018,Direct,Others,United States of America,Colorado,0,1,baby
+1320,MOBILE,2,61,Saturday,16,April,2018,Direct,Others,United States of America,Utah,0,1,baby
+1320,MOBILE,6,198,Saturday,18,April,2018,Direct,Others,United States of America,Missouri,0,1,baby
+1320,MOBILE,2,150,Saturday,22,April,2018,Direct,Others,United States of America,Hawaii,0,1,baby
+1320,MOBILE,1,1039,Saturday,21,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1320,MOBILE,2,130,Saturday,1,April,2018,ORGANIC,Google,Canada,British Columbia,0,1,baby
+1320,MOBILE,5,77,Saturday,7,April,2018,ORGANIC,Google,Sweden,Skane lan,0,1,baby
+1320,MOBILE,2,59,Saturday,1,April,2018,ORGANIC,Google,United States of America,Connecticut,0,1,baby
+1320,MOBILE,1,188,Saturday,0,April,2018,ORGANIC,Google,United States of America,Florida,0,1,baby
+1320,MOBILE,4,1626,Saturday,3,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,baby
+1320,MOBILE,6,265,Saturday,4,April,2018,ORGANIC,Google,United States of America,Maryland,0,1,baby
+1320,MOBILE,2,134,Saturday,8,April,2018,ORGANIC,Google,United States of America,Minnesota,0,1,baby
+1320,MOBILE,2,356,Saturday,14,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,MOBILE,1,76,Saturday,14,April,2018,ORGANIC,Google,United States of America,Indiana,0,1,baby
+1320,MOBILE,1,78,Saturday,13,April,2018,ORGANIC,Google,United States of America,Mississippi,0,1,baby
+1320,MOBILE,2,253,Saturday,15,April,2018,ORGANIC,Google,United States of America,Maryland,0,1,baby
+1320,MOBILE,1,1633,Saturday,19,April,2018,ORGANIC,Google,United States of America,Arizona,0,1,baby
+1320,MOBILE,2,130,Saturday,21,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,baby
+1320,MOBILE,2,241,Saturday,22,April,2018,PPC,Google,United States of America,Colorado,0,1,baby
+1320,MOBILE,1,83,Sunday,3,April,2018,Direct,Others,Canada,Alberta,0,1,baby
+1320,MOBILE,2,150,Sunday,20,April,2018,Direct,Others,Ireland,Dublin,0,1,baby
+1320,MOBILE,4,60,Sunday,15,April,2018,Direct,Others,Italy,Friuli-Venezia Giulia,0,1,baby
+1320,MOBILE,2,527,Sunday,2,April,2018,Direct,Others,United States of America,Ohio,0,1,baby
+1320,MOBILE,2,1706,Sunday,4,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,MOBILE,1,153,Sunday,15,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,MOBILE,2,59,Sunday,19,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,MOBILE,2,204,Sunday,18,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,MOBILE,2,130,Sunday,23,April,2018,Direct,Others,United States of America,Montana,0,1,baby
+1320,MOBILE,2,71,Sunday,23,April,2018,Direct,Others,United States of America,Ohio,0,1,baby
+1320,MOBILE,5,63,Sunday,19,April,2018,ORGANIC,Google,Sweden,Uppsala lan,0,1,baby
+1320,MOBILE,2,60,Sunday,1,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1320,MOBILE,3,101,Sunday,14,April,2018,ORGANIC,Google,United States of America,Indiana,0,1,baby
+1320,MOBILE,1,321,Sunday,12,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1320,MOBILE,1,136,Sunday,20,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,MOBILE,1,76,Sunday,19,April,2018,ORGANIC,Google,United States of America,Colorado,0,1,baby
+1320,MOBILE,1,1336,Sunday,18,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1320,MOBILE,2,118,Sunday,23,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,MOBILE,1,182,Sunday,23,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,baby
+1320,MOBILE,1,528,Thursday,0,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,MOBILE,2,550,Thursday,1,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,MOBILE,2,1265,Thursday,10,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,MOBILE,2,152,Thursday,12,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,MOBILE,2,215,Thursday,16,April,2018,Direct,Others,United States of America,Arizona,0,1,baby
+1320,MOBILE,2,126,Thursday,16,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,MOBILE,2,130,Thursday,17,April,2018,Direct,Others,United States of America,Louisiana,0,1,baby
+1320,MOBILE,6,80,Thursday,15,April,2018,Direct,Others,United States of America,New Jersey,0,1,baby
+1320,MOBILE,2,110,Thursday,15,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1320,MOBILE,2,500,Thursday,19,April,2018,Direct,Others,United States of America,Alabama,0,2,baby
+1320,MOBILE,2,110,Thursday,0,April,2018,ORGANIC,Google,United States of America,Iowa,0,1,baby
+1320,MOBILE,2,62,Thursday,0,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,baby
+1320,MOBILE,2,92,Thursday,1,April,2018,ORGANIC,Google,United States of America,Tennessee,0,1,baby
+1320,MOBILE,1,65,Thursday,14,April,2018,ORGANIC,Google,United States of America,Arkansas,0,1,baby
+1320,MOBILE,2,90,Thursday,15,April,2018,ORGANIC,Google,United States of America,Arizona,0,1,baby
+1320,MOBILE,2,68,Thursday,16,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,MOBILE,2,316,Thursday,17,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,baby
+1320,MOBILE,1,133,Thursday,16,April,2018,ORGANIC,Google,United States of America,North Carolina,0,1,baby
+1320,MOBILE,2,134,Thursday,15,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,baby
+1320,MOBILE,1,700,Thursday,17,April,2018,ORGANIC,Google,United States of America,Utah,0,1,baby
+1320,MOBILE,2,130,Thursday,20,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,MOBILE,2,150,Thursday,22,April,2018,ORGANIC,Google,United States of America,Indiana,0,1,baby
+1320,MOBILE,1,813,Thursday,18,April,2018,PPC,Google,United States of America,New York,0,1,baby
+1320,MOBILE,1,795,Tuesday,0,April,2018,Direct,Others,United States of America,Alaska,0,1,baby
+1320,MOBILE,1,166,Tuesday,1,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,MOBILE,2,1265,Tuesday,0,April,2018,Direct,Others,United States of America,North Dakota,0,1,baby
+1320,MOBILE,2,137,Tuesday,1,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,MOBILE,1,326,Tuesday,15,April,2018,Direct,Others,United States of America,Nevada,0,1,baby
+1320,MOBILE,1,349,Tuesday,16,April,2018,Direct,Others,United States of America,Utah,0,1,baby
+1320,MOBILE,2,2399,Tuesday,19,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,MOBILE,1,1995,Tuesday,20,April,2018,Direct,Others,United States of America,Washington,0,1,baby
+1320,MOBILE,2,70,Tuesday,20,April,2018,Direct,Others,United States of America,Wisconsin,0,1,baby
+1320,MOBILE,2,706,Tuesday,23,April,2018,Direct,Others,United States of America,South Carolina,0,1,baby
+1320,MOBILE,2,112,Tuesday,21,April,2018,Direct,Others,United States of America,Utah,0,1,baby
+1320,MOBILE,1,74,Tuesday,2,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,MOBILE,2,130,Tuesday,1,April,2018,ORGANIC,Google,United States of America,New Mexico,0,1,baby
+1320,MOBILE,2,220,Tuesday,0,April,2018,ORGANIC,Google,United States of America,Washington,0,1,baby
+1320,MOBILE,2,64,Tuesday,14,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,MOBILE,1,109,Tuesday,13,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,baby
+1320,MOBILE,1,2995,Tuesday,13,April,2018,ORGANIC,Google,United States of America,Oregon,0,1,baby
+1320,MOBILE,1,153,Tuesday,19,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,MOBILE,2,62,Tuesday,20,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,baby
+1320,MOBILE,1,153,Tuesday,18,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1320,MOBILE,2,109,Tuesday,18,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,MOBILE,2,130,Tuesday,21,April,2018,ORGANIC,Google,United States of America,Louisiana,0,1,baby
+1320,MOBILE,1,133,Tuesday,23,April,2018,ORGANIC,Google,United States of America,Tennessee,0,1,baby
+1320,MOBILE,1,55,Tuesday,22,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,MOBILE,2,66,Tuesday,0,April,2018,PPC,Others,United States of America,Illinois,0,1,baby
+1320,MOBILE,2,101,Tuesday,23,April,2018,PPC,Others,United States of America,Minnesota,0,1,baby
+1320,MOBILE,2,82,Tuesday,23,April,2018,PPC,Google,United States of America,California,0,1,baby
+1320,MOBILE,1,300,Wednesday,8,April,2018,Direct,Others,Israel,Tel Aviv,0,1,baby
+1320,MOBILE,1,76,Wednesday,2,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,MOBILE,1,74,Wednesday,2,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1320,MOBILE,2,160,Wednesday,2,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1320,MOBILE,2,89,Wednesday,13,April,2018,Direct,Others,United States of America,Louisiana,0,1,baby
+1320,MOBILE,2,80,Wednesday,16,April,2018,Direct,Others,United States of America,California,0,1,baby
+1320,MOBILE,2,113,Wednesday,16,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1320,MOBILE,2,113,Wednesday,15,April,2018,Direct,Others,United States of America,Nevada,0,1,baby
+1320,MOBILE,1,88,Wednesday,17,April,2018,Direct,Others,United States of America,Wyoming,0,1,baby
+1320,MOBILE,1,513,Wednesday,20,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1320,MOBILE,2,60,Wednesday,22,April,2018,Direct,Others,United States of America,Connecticut,0,1,baby
+1320,MOBILE,2,220,Wednesday,22,April,2018,Direct,Others,United States of America,Washington,0,1,baby
+1320,MOBILE,2,95,Wednesday,14,April,2018,ORGANIC,Bing,United States of America,Alabama,0,1,baby
+1320,MOBILE,2,100,Wednesday,0,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,MOBILE,2,118,Wednesday,0,April,2018,ORGANIC,Google,United States of America,Colorado,0,1,baby
+1320,MOBILE,2,179,Wednesday,1,April,2018,ORGANIC,Google,United States of America,Washington,0,1,baby
+1320,MOBILE,1,186,Wednesday,4,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,MOBILE,1,133,Wednesday,14,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1320,MOBILE,1,133,Wednesday,19,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1320,MOBILE,2,130,Wednesday,19,April,2018,ORGANIC,Google,United States of America,Idaho,0,1,baby
+1320,MOBILE,1,62,Wednesday,18,April,2018,ORGANIC,Google,United States of America,Massachusetts,0,1,baby
+1320,MOBILE,1,107,Wednesday,18,April,2018,ORGANIC,Google,United States of America,Minnesota,0,1,baby
+1320,MOBILE,1,133,Wednesday,20,April,2018,ORGANIC,Google,United States of America,Utah,0,1,baby
+1320,MOBILE,2,71,Wednesday,22,April,2018,ORGANIC,Google,United States of America,Louisiana,0,1,baby
+1320,MOBILE,2,130,Wednesday,22,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,baby
+1418,DESKTOP,6,196,Friday,12,April,2018,Direct,Others,Canada,Ontario,0,1,baby
+1418,DESKTOP,8,240,Friday,0,April,2018,Direct,Others,"Korea, Republic of",Gyeonggi-do,0,1,baby
+1418,DESKTOP,3,98,Friday,14,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1418,DESKTOP,6,200,Friday,14,April,2018,Direct,Others,United States of America,Missouri,0,1,baby
+1418,DESKTOP,5,236,Friday,14,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1418,DESKTOP,12,640,Friday,13,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1418,DESKTOP,2,60,Friday,17,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,6,100,Friday,16,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1418,DESKTOP,18,300,Friday,19,April,2018,Direct,Others,United States of America,California,0,3,baby
+1418,DESKTOP,6,240,Friday,23,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,6,196,Friday,1,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,baby
+1418,DESKTOP,12,472,Friday,17,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1418,DESKTOP,4,110,Friday,15,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,baby
+1418,DESKTOP,3,98,Friday,20,April,2018,ORGANIC,Google,United States of America,South Dakota,0,1,baby
+1418,DESKTOP,6,196,Friday,23,April,2018,ORGANIC,Google,United States of America,Nevada,0,1,baby
+1418,DESKTOP,3,98,Friday,3,April,2018,ORGANIC,Yahoo,United States of America,California,0,1,baby
+1418,DESKTOP,4,120,Monday,21,April,2018,Direct,Others,Bermuda,Hamilton,0,1,baby
+1418,DESKTOP,14,450,Monday,6,April,2018,Direct,Others,Canada,British Columbia,0,1,baby
+1418,DESKTOP,6,357,Monday,2,April,2018,Direct,Others,United States of America,Ohio,0,1,baby
+1418,DESKTOP,6,196,Monday,3,April,2018,Direct,Others,United States of America,Illinois,0,2,baby
+1418,DESKTOP,3,99,Monday,4,April,2018,Direct,Others,United States of America,Ohio,0,1,baby
+1418,DESKTOP,8,256,Monday,3,April,2018,Direct,Others,United States of America,Utah,0,1,baby
+1418,DESKTOP,3,98,Monday,14,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,3,85,Monday,17,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,34,444,Monday,19,April,2018,Direct,Others,United States of America,California,0,3,baby
+1418,DESKTOP,3,278,Monday,20,April,2018,Direct,Others,United States of America,New Jersey,0,1,baby
+1418,DESKTOP,2,80,Monday,18,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1418,DESKTOP,12,148,Monday,18,April,2018,Direct,Others,United States of America,Tennessee,0,1,baby
+1418,DESKTOP,6,796,Monday,20,April,2018,Direct,Others,United States of America,Utah,0,1,baby
+1418,DESKTOP,3,98,Monday,19,April,2018,Direct,Others,United States of America,Wisconsin,0,1,baby
+1418,DESKTOP,12,304,Monday,23,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,12,180,Monday,22,April,2018,Direct,Others,United States of America,Hawaii,0,1,baby
+1418,DESKTOP,3,98,Monday,22,April,2018,Direct,Others,United States of America,Vermont,0,1,baby
+1418,DESKTOP,20,242,Monday,17,April,2018,ORGANIC,Bing,United States of America,New Jersey,0,1,baby
+1418,DESKTOP,4,160,Monday,22,April,2018,ORGANIC,Bing,United States of America,Colorado,0,1,baby
+1418,DESKTOP,6,200,Monday,21,April,2018,ORGANIC,Bing,United States of America,New Jersey,0,1,baby
+1418,DESKTOP,18,790,Monday,0,April,2018,ORGANIC,Google,United States of America,District of Columbia,0,2,baby
+1418,DESKTOP,6,196,Monday,1,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,baby
+1418,DESKTOP,16,320,Monday,15,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,baby
+1418,DESKTOP,7,668,Monday,17,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1418,DESKTOP,6,190,Monday,19,April,2018,ORGANIC,Google,United States of America,Louisiana,0,1,baby
+1418,DESKTOP,6,200,Monday,0,April,2018,ORGANIC,Yahoo,United States of America,New York,0,1,baby
+1418,DESKTOP,6,84,Saturday,5,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,3,98,Saturday,14,April,2018,Direct,Others,United States of America,Missouri,0,1,baby
+1418,DESKTOP,9,294,Saturday,19,April,2018,Direct,Others,United States of America,California,0,2,baby
+1418,DESKTOP,2,99,Saturday,18,April,2018,Direct,Others,United States of America,Maryland,0,1,baby
+1418,DESKTOP,26,945,Saturday,19,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1418,DESKTOP,3,249,Saturday,18,April,2018,ORGANIC,Google,United States of America,Connecticut,0,1,baby
+1418,DESKTOP,3,98,Sunday,18,April,2018,Direct,Others,United Kingdom,England,0,1,baby
+1418,DESKTOP,4,57,Sunday,1,April,2018,Direct,Others,United States of America,Georgia,0,1,baby
+1418,DESKTOP,6,349,Sunday,10,April,2018,Direct,Others,United States of America,New Jersey,0,1,baby
+1418,DESKTOP,2,78,Sunday,11,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1418,DESKTOP,12,392,Sunday,20,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1418,DESKTOP,4,158,Sunday,23,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1418,DESKTOP,8,154,Sunday,23,April,2018,Direct,Others,United States of America,Tennessee,0,1,baby
+1418,DESKTOP,3,249,Sunday,21,April,2018,Direct,Others,United States of America,Wisconsin,0,1,baby
+1418,DESKTOP,8,836,Sunday,21,April,2018,ORGANIC,Bing,United States of America,Arizona,0,1,baby
+1418,DESKTOP,8,196,Sunday,3,April,2018,ORGANIC,Google,United States of America,Arizona,0,1,baby
+1418,DESKTOP,6,147,Sunday,11,April,2018,ORGANIC,Google,United States of America,Virginia,0,1,baby
+1418,DESKTOP,7,497,Sunday,17,April,2018,ORGANIC,Google,United States of America,Virginia,0,1,baby
+1418,DESKTOP,12,714,Sunday,22,April,2018,ORGANIC,Google,United States of America,North Carolina,0,1,baby
+1418,DESKTOP,3,98,Sunday,22,April,2018,ORGANIC,Google,United States of America,Pennsylvania,0,1,baby
+1418,DESKTOP,22,330,Thursday,0,April,2018,Direct,Others,United States of America,Hawaii,0,1,baby
+1418,DESKTOP,6,180,Thursday,1,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1418,DESKTOP,3,98,Thursday,5,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,6,238,Thursday,11,April,2018,Direct,Others,United States of America,Virginia,0,1,baby
+1418,DESKTOP,4,120,Thursday,14,April,2018,Direct,Others,United States of America,Alabama,0,1,baby
+1418,DESKTOP,10,300,Thursday,15,April,2018,Direct,Others,United States of America,Alabama,0,1,baby
+1418,DESKTOP,3,68,Thursday,15,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,3,98,Thursday,16,April,2018,Direct,Others,United States of America,Maryland,0,1,baby
+1418,DESKTOP,6,196,Thursday,15,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1418,DESKTOP,4,218,Thursday,17,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1418,DESKTOP,18,300,Thursday,20,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,32,480,Thursday,19,April,2018,Direct,Others,United States of America,Virginia,0,1,baby
+1418,DESKTOP,3,98,Thursday,22,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1418,DESKTOP,6,176,Thursday,21,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1418,DESKTOP,6,196,Thursday,14,April,2018,ORGANIC,Bing,United States of America,Maryland,0,1,baby
+1418,DESKTOP,3,98,Thursday,1,April,2018,ORGANIC,Google,United States of America,Minnesota,0,1,baby
+1418,DESKTOP,6,140,Thursday,16,April,2018,ORGANIC,Google,United States of America,Oregon,0,1,baby
+1418,DESKTOP,3,98,Thursday,19,April,2018,ORGANIC,Google,United States of America,Maryland,0,1,baby
+1418,DESKTOP,2,60,Thursday,18,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1418,DESKTOP,3,139,Thursday,22,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1418,DESKTOP,4,180,Thursday,23,April,2018,ORGANIC,Google,United States of America,Maryland,0,1,baby
+1418,DESKTOP,2,60,Thursday,23,April,2018,ORGANIC,Google,United States of America,North Carolina,0,1,baby
+1418,DESKTOP,3,418,Tuesday,1,April,2018,Direct,Others,United States of America,Michigan,0,1,baby
+1418,DESKTOP,3,98,Tuesday,0,April,2018,Direct,Others,United States of America,New Jersey,0,1,baby
+1418,DESKTOP,42,840,Tuesday,0,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1418,DESKTOP,8,300,Tuesday,0,April,2018,Direct,Others,United States of America,Oregon,0,2,baby
+1418,DESKTOP,4,80,Tuesday,5,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,3,98,Tuesday,3,April,2018,Direct,Others,United States of America,Virginia,0,1,baby
+1418,DESKTOP,6,196,Tuesday,12,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1418,DESKTOP,78,2346,Tuesday,16,April,2018,Direct,Others,United States of America,California,0,2,baby
+1418,DESKTOP,10,530,Tuesday,15,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1418,DESKTOP,12,200,Tuesday,17,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1418,DESKTOP,18,360,Tuesday,17,April,2018,Direct,Others,United States of America,Maryland,0,1,baby
+1418,DESKTOP,4,120,Tuesday,16,April,2018,Direct,Others,United States of America,Minnesota,0,1,baby
+1418,DESKTOP,3,98,Tuesday,20,April,2018,Direct,Others,United States of America,Arizona,0,1,baby
+1418,DESKTOP,17,365,Tuesday,19,April,2018,Direct,Others,United States of America,California,0,2,baby
+1418,DESKTOP,12,374,Tuesday,18,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1418,DESKTOP,14,531,Tuesday,19,April,2018,Direct,Others,United States of America,Illinois,0,2,baby
+1418,DESKTOP,9,530,Tuesday,23,April,2018,Direct,Others,United States of America,Arizona,0,1,baby
+1418,DESKTOP,18,1260,Tuesday,23,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,4,90,Tuesday,16,April,2018,ORGANIC,Bing,United States of America,Colorado,0,1,baby
+1418,DESKTOP,3,98,Tuesday,6,April,2018,ORGANIC,Google,Australia,Victoria,0,1,baby
+1418,DESKTOP,3,249,Tuesday,0,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1418,DESKTOP,8,312,Tuesday,2,April,2018,ORGANIC,Google,United States of America,Missouri,0,1,baby
+1418,DESKTOP,3,98,Tuesday,3,April,2018,ORGANIC,Google,United States of America,Michigan,0,1,baby
+1418,DESKTOP,3,98,Tuesday,18,April,2018,ORGANIC,Google,United States of America,Rhode Island,0,1,baby
+1418,DESKTOP,6,140,Tuesday,22,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1418,DESKTOP,18,1268,Wednesday,15,April,2018,Direct,Others,Canada,Ontario,0,1,baby
+1418,DESKTOP,70,1112,Wednesday,23,April,2018,Direct,Others,Canada,British Columbia,0,1,baby
+1418,DESKTOP,6,100,Wednesday,0,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,4,116,Wednesday,2,April,2018,Direct,Others,United States of America,Colorado,0,1,baby
+1418,DESKTOP,22,532,Wednesday,1,April,2018,Direct,Others,United States of America,Massachusetts,0,1,baby
+1418,DESKTOP,12,816,Wednesday,4,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1418,DESKTOP,29,474,Wednesday,5,April,2018,Direct,Others,United States of America,Oregon,0,1,baby
+1418,DESKTOP,6,196,Wednesday,3,April,2018,Direct,Others,United States of America,Washington,0,1,baby
+1418,DESKTOP,4,80,Wednesday,8,April,2018,Direct,Others,United States of America,District of Columbia,0,1,baby
+1418,DESKTOP,22,1060,Wednesday,17,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,2,60,Wednesday,15,April,2018,Direct,Others,United States of America,Michigan,0,1,baby
+1418,DESKTOP,42,920,Wednesday,17,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1418,DESKTOP,20,380,Wednesday,19,April,2018,Direct,Others,United States of America,Alabama,0,1,baby
+1418,DESKTOP,4,318,Wednesday,18,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,3,224,Wednesday,19,April,2018,Direct,Others,United States of America,Michigan,0,1,baby
+1418,DESKTOP,6,270,Wednesday,18,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1418,DESKTOP,24,560,Wednesday,20,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1418,DESKTOP,6,110,Wednesday,21,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,DESKTOP,6,100,Wednesday,21,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1418,DESKTOP,6,196,Wednesday,1,April,2018,ORGANIC,Bing,United States of America,Georgia,0,1,baby
+1418,DESKTOP,6,196,Wednesday,14,April,2018,ORGANIC,Bing,United States of America,Georgia,0,1,baby
+1418,DESKTOP,6,130,Wednesday,15,April,2018,ORGANIC,Bing,United States of America,New Jersey,0,1,baby
+1418,DESKTOP,6,196,Wednesday,0,April,2018,ORGANIC,Google,United States of America,California,0,1,baby
+1418,DESKTOP,3,98,Wednesday,14,April,2018,ORGANIC,Google,United States of America,Virginia,0,1,baby
+1418,DESKTOP,12,620,Wednesday,16,April,2018,ORGANIC,Google,United States of America,Nevada,0,1,baby
+1418,DESKTOP,6,100,Wednesday,20,April,2018,ORGANIC,Google,United States of America,Maryland,0,1,baby
+1418,DESKTOP,3,90,Wednesday,19,April,2018,ORGANIC,Google,United States of America,North Carolina,0,1,baby
+1418,DESKTOP,6,270,Wednesday,22,April,2018,ORGANIC,Google,United States of America,Minnesota,0,1,baby
+1418,MOBILE,16,304,Friday,22,April,2018,Direct,Others,Canada,New Brunswick,0,1,baby
+1418,MOBILE,4,156,Friday,0,April,2018,Direct,Others,United States of America,Arkansas,0,1,baby
+1418,MOBILE,6,196,Friday,12,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1418,MOBILE,6,196,Friday,16,April,2018,Direct,Others,United States of America,New Jersey,0,1,baby
+1418,MOBILE,6,196,Friday,16,April,2018,Direct,Others,United States of America,Washington,0,1,baby
+1418,MOBILE,12,468,Friday,18,April,2018,Direct,Others,United States of America,Massachusetts,0,1,baby
+1418,MOBILE,6,796,Friday,20,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1418,MOBILE,6,196,Friday,0,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1418,MOBILE,6,196,Friday,4,April,2018,ORGANIC,Google,United States of America,Arizona,0,1,baby
+1418,MOBILE,6,196,Friday,3,April,2018,ORGANIC,Google,United States of America,Colorado,0,1,baby
+1418,MOBILE,2,258,Monday,10,April,2018,Direct,Others,Barbados,Saint James,0,1,baby
+1418,MOBILE,122,2670,Monday,15,April,2018,Direct,Others,Canada,Ontario,0,1,baby
+1418,MOBILE,8,556,Monday,19,April,2018,Direct,Others,Mexico,Mexico,0,1,baby
+1418,MOBILE,4,278,Monday,10,April,2018,Direct,Others,United States of America,Minnesota,0,1,baby
+1418,MOBILE,8,738,Monday,12,April,2018,Direct,Others,United States of America,Kentucky,0,1,baby
+1418,MOBILE,4,504,Monday,1,April,2018,ORGANIC,Google,United States of America,Georgia,0,1,baby
+1418,MOBILE,4,156,Monday,2,April,2018,ORGANIC,Google,United States of America,Illinois,0,1,baby
+1418,MOBILE,16,304,Monday,15,April,2018,ORGANIC,Pinterest,United States of America,New York,0,1,baby
+1418,MOBILE,4,356,Saturday,11,April,2018,Direct,Others,Canada,Ontario,0,1,baby
+1418,MOBILE,4,356,Saturday,13,April,2018,Direct,Others,Canada,Ontario,0,1,baby
+1418,MOBILE,4,198,Saturday,13,April,2018,Direct,Others,United States of America,Massachusetts,0,1,baby
+1418,MOBILE,6,498,Saturday,13,April,2018,Direct,Others,United States of America,South Carolina,0,1,baby
+1418,MOBILE,4,120,Saturday,21,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1418,MOBILE,16,366,Saturday,2,April,2018,ORGANIC,Google,United States of America,Arizona,0,1,baby
+1418,MOBILE,4,318,Saturday,14,April,2018,ORGANIC,Google,United States of America,Connecticut,0,1,baby
+1418,MOBILE,2,158,Saturday,17,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1418,MOBILE,6,196,Saturday,18,April,2018,ORGANIC,Google,United States of America,Vermont,0,1,baby
+1418,MOBILE,4,156,Saturday,21,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1418,MOBILE,4,198,Sunday,1,April,2018,Direct,Others,United States of America,Kansas,0,1,baby
+1418,MOBILE,4,198,Sunday,1,April,2018,Direct,Others,United States of America,Kentucky,0,1,baby
+1418,MOBILE,12,392,Sunday,3,April,2018,Direct,Others,United States of America,Pennsylvania,0,1,baby
+1418,MOBILE,6,196,Sunday,13,April,2018,Direct,Others,United States of America,Illinois,0,1,baby
+1418,MOBILE,6,278,Sunday,16,April,2018,Direct,Others,United States of America,Arizona,0,1,baby
+1418,MOBILE,10,294,Sunday,15,April,2018,Direct,Others,United States of America,Wisconsin,0,2,baby
+1418,MOBILE,4,156,Sunday,19,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,MOBILE,4,156,Sunday,3,April,2018,ORGANIC,Google,United States of America,Texas,0,1,baby
+1418,MOBILE,2,158,Sunday,13,April,2018,ORGANIC,Google,United States of America,South Carolina,0,1,baby
+1418,MOBILE,4,177,Sunday,18,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1418,MOBILE,6,196,Sunday,22,April,2018,ORGANIC,Google,United States of America,Ohio,0,1,baby
+1418,MOBILE,6,196,Thursday,3,April,2018,Direct,Others,Kenya,Nairobi City,0,1,baby
+1418,MOBILE,4,80,Thursday,0,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1418,MOBILE,4,160,Thursday,19,April,2018,Direct,Others,United States of America,Oregon,0,1,baby
+1418,MOBILE,4,120,Thursday,21,April,2018,Direct,Others,United States of America,New Jersey,0,1,baby
+1418,MOBILE,6,196,Thursday,2,April,2018,ORGANIC,Google,United States of America,Massachusetts,0,1,baby
+1418,MOBILE,20,748,Thursday,12,April,2018,ORGANIC,Google,United States of America,Kentucky,0,1,baby
+1418,MOBILE,6,196,Tuesday,6,April,2018,Direct,Others,United States of America,Arizona,0,1,baby
+1418,MOBILE,3,139,Tuesday,12,April,2018,Direct,Others,United States of America,Georgia,0,1,baby
+1418,MOBILE,8,596,Tuesday,16,April,2018,Direct,Others,United States of America,Alaska,0,1,baby
+1418,MOBILE,4,116,Tuesday,17,April,2018,Direct,Others,United States of America,Delaware,0,1,baby
+1418,MOBILE,1,79,Tuesday,20,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1418,MOBILE,4,276,Tuesday,23,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1418,MOBILE,2,60,Tuesday,1,April,2018,ORGANIC,Google,United States of America,New Jersey,0,1,baby
+1418,MOBILE,12,392,Tuesday,0,April,2018,ORGANIC,Google,United States of America,North Carolina,0,1,baby
+1418,MOBILE,10,296,Tuesday,8,April,2018,ORGANIC,Google,United States of America,Alabama,0,1,baby
+1418,MOBILE,12,392,Tuesday,23,April,2018,ORGANIC,Google,United States of America,Maine,0,1,baby
+1418,MOBILE,4,356,Wednesday,7,April,2018,Direct,Others,Australia,Victoria,0,1,baby
+1418,MOBILE,12,512,Wednesday,2,April,2018,Direct,Others,United States of America,Florida,0,1,baby
+1418,MOBILE,3,98,Wednesday,2,April,2018,Direct,Others,United States of America,South Carolina,0,1,baby
+1418,MOBILE,6,196,Wednesday,3,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,MOBILE,12,434,Wednesday,16,April,2018,Direct,Others,United States of America,North Carolina,0,1,baby
+1418,MOBILE,6,196,Wednesday,18,April,2018,Direct,Others,United States of America,New York,0,1,baby
+1418,MOBILE,2,78,Wednesday,23,April,2018,Direct,Others,United States of America,Arizona,0,1,baby
+1418,MOBILE,6,196,Wednesday,22,April,2018,Direct,Others,United States of America,California,0,1,baby
+1418,MOBILE,2,60,Wednesday,21,April,2018,Direct,Others,United States of America,Oregon,0,1,baby
+1418,MOBILE,6,196,Wednesday,23,April,2018,Direct,Others,United States of America,Texas,0,1,baby
+1418,MOBILE,6,196,Wednesday,2,April,2018,ORGANIC,Google,United States of America,Arkansas,0,1,baby
+1418,MOBILE,2,138,Wednesday,2,April,2018,ORGANIC,Google,United States of America,New Hampshire,0,1,baby
+1418,MOBILE,6,196,Wednesday,1,April,2018,ORGANIC,Google,United States of America,Rhode Island,0,1,baby
+1418,MOBILE,6,140,Wednesday,18,April,2018,ORGANIC,Google,United States of America,Massachusetts,0,1,baby
+1418,MOBILE,6,196,Wednesday,20,April,2018,ORGANIC,Google,United States of America,New York,0,1,baby
