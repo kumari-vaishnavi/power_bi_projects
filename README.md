@@ -46,3 +46,14 @@ Quantity - Units sold
 ![Alt text](./Snapshots/customer_persona_2.png "customer_persona_visual_slicer")
 
 
+## **Apocolypse visuals**
+
+- Insightful dashboard that provides a clear view of your business's monthly sales performance across different states.
+- Analysis of sales patterns over time to identify growth and products by the customers.
+
+![Alt text](./Snapshots/apocolypse.png "visuals")
+
+### Visuals by selecting specific parameters using slicer:
+
+![Alt text](./Snapshots/apocolypse_1.png "visuals")
+
